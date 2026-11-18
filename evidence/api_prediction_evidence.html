@@ -1,0 +1,50 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Live API prediction evidence</title><style>
+body{font-family:Arial,sans-serif;background:#f2f5f9;color:#1d2939;margin:0;padding:38px}
+.wrap{max-width:1180px;margin:auto}h1{font-size:30px;margin:0 0 8px}.sub{color:#53647a;margin-bottom:24px}
+.status{background:#eaf7ef;border:1px solid #a4d6b5;padding:15px 18px;border-radius:12px;margin-bottom:20px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.card{background:white;border:1px solid #dce3ec;border-radius:12px;padding:20px;box-shadow:0 3px 10px #152b4510}
+.risk{color:#b42318;font-weight:bold}.safe{color:#067647;font-weight:bold}pre{white-space:pre-wrap;background:#101828;color:#e6edf7;padding:16px;border-radius:8px;font-size:13px;line-height:1.5}
+.tag{font-size:12px;text-transform:uppercase;letter-spacing:1px;color:#667085}.foot{font-size:12px;color:#667085;margin-top:22px}
+@media(max-width:800px){.grid{grid-template-columns:1fr}}
+</style></head><body><div class="wrap"><h1>Manuscript Moisture-Risk API</h1><div class="sub">Live local smoke test • 18 November 2026 • FastAPI endpoint responses</div>
+<div class="status"><b>GET /health</b> - HEALTHY &nbsp; | &nbsp; model loaded: True &nbsp; | &nbsp; version: 1</div>
+<div class="grid">
+<div class="card"><div class="tag">POST /predict • Test case 01</div><h2 class="risk">Moisture Risk</h2><p>Risk probability: <b>0.9637</b> | threshold: 0.35</p><h3>Request JSON</h3><pre>{
+  "relative_humidity_pct": 91,
+  "room_temperature_c": 18,
+  "wall_surface_temperature_c": 14,
+  "door_openings_per_hour": 10,
+  "ventilation_duration_min_per_hour": 8,
+  "dehumidifier_operating_hours_per_day": 2,
+  "room_occupancy": 4
+}</pre><h3>Response JSON</h3><pre>{
+  "prediction": "Moisture Risk",
+  "moisture_risk_probability": 0.9637,
+  "decision_threshold": 0.35,
+  "forecast_horizon": "Next 48 hours",
+  "engineered_features": {
+    "condensation_risk_index": 0.9426,
+    "ventilation_effectiveness_ratio": 0.0678,
+    "dew_point_c": 16.508
+  }
+}</pre></div>
+<div class="card"><div class="tag">POST /predict • Test case 02</div><h2 class="safe">Storage Conditions Acceptable</h2><p>Risk probability: <b>0.0000</b> | threshold: 0.35</p><h3>Request JSON</h3><pre>{
+  "relative_humidity_pct": 50,
+  "room_temperature_c": 23,
+  "wall_surface_temperature_c": 21,
+  "door_openings_per_hour": 1,
+  "ventilation_duration_min_per_hour": 45,
+  "dehumidifier_operating_hours_per_day": 12,
+  "room_occupancy": 1
+}</pre><h3>Response JSON</h3><pre>{
+  "prediction": "Storage Conditions Acceptable",
+  "moisture_risk_probability": 0.0,
+  "decision_threshold": 0.35,
+  "forecast_horizon": "Next 48 hours",
+  "engineered_features": {
+    "condensation_risk_index": 0.0,
+    "ventilation_effectiveness_ratio": 0.6716,
+    "dew_point_c": 12.02
+  }
+}</pre></div>
+</div><div class="foot">Evidence captured from the running local FastAPI service. Synthetic data and predictions are for coursework demonstration only.</div></div></body></html>

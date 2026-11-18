@@ -1,0 +1,301 @@
+observation_id,dataset_version,room_id,observed_at,relative_humidity_pct,room_temperature_c,wall_surface_temperature_c,door_openings_per_hour,ventilation_duration_min_per_hour,dehumidifier_operating_hours_per_day,room_occupancy,moisture_risk_status
+V2-0001,Version 2 - Monsoon,MSR-01,2026-01-01T00:00:00+00:00,73.2,15.49,11.18,5,18.28,15.99,2,Moisture Risk
+V2-0002,Version 2 - Monsoon,MSR-02,2026-01-01T04:00:00+00:00,90.36,22.78,17.95,9,15.96,5.44,1,Moisture Risk
+V2-0003,Version 2 - Monsoon,MSR-03,2026-01-01T08:00:00+00:00,80.3,22.74,18.88,2,24.71,13.22,1,Moisture Risk
+V2-0004,Version 2 - Monsoon,MSR-04,2026-01-01T12:00:00+00:00,84.5,20.66,16.79,5,30.85,1.0,3,Moisture Risk
+V2-0005,Version 2 - Monsoon,MSR-05,2026-01-01T16:00:00+00:00,66.6,21.72,18.93,6,13.07,12.78,2,Storage Conditions Acceptable
+V2-0006,Version 2 - Monsoon,MSR-06,2026-01-01T20:00:00+00:00,98.0,17.5,12.61,5,9.92,17.29,0,Moisture Risk
+V2-0007,Version 2 - Monsoon,MSR-01,2026-01-02T00:00:00+00:00,82.49,19.27,15.49,1,12.93,12.43,1,Moisture Risk
+V2-0008,Version 2 - Monsoon,MSR-02,2026-01-02T04:00:00+00:00,90.06,23.08,20.72,5,24.5,9.9,0,Moisture Risk
+V2-0009,Version 2 - Monsoon,MSR-03,2026-01-02T08:00:00+00:00,69.99,18.71,13.85,6,20.41,14.65,1,Moisture Risk
+V2-0010,Version 2 - Monsoon,MSR-04,2026-01-02T12:00:00+00:00,80.43,19.83,15.59,1,15.62,10.08,1,Moisture Risk
+V2-0011,Version 2 - Monsoon,MSR-05,2026-01-02T16:00:00+00:00,82.41,25.63,20.68,2,25.58,3.62,0,Moisture Risk
+V2-0012,Version 2 - Monsoon,MSR-06,2026-01-02T20:00:00+00:00,78.55,20.85,16.23,5,27.73,17.35,5,Moisture Risk
+V2-0013,Version 2 - Monsoon,MSR-01,2026-01-03T00:00:00+00:00,87.8,25.37,22.25,2,17.47,12.37,1,Moisture Risk
+V2-0014,Version 2 - Monsoon,MSR-02,2026-01-03T04:00:00+00:00,69.06,19.88,15.78,4,20.75,15.49,0,Storage Conditions Acceptable
+V2-0015,Version 2 - Monsoon,MSR-03,2026-01-03T08:00:00+00:00,70.53,22.97,18.62,5,24.82,5.54,4,Moisture Risk
+V2-0016,Version 2 - Monsoon,MSR-04,2026-01-03T12:00:00+00:00,52.99,20.63,18.09,3,23.71,5.65,4,Storage Conditions Acceptable
+V2-0017,Version 2 - Monsoon,MSR-05,2026-01-03T16:00:00+00:00,80.69,20.1,18.16,5,12.53,16.94,0,Moisture Risk
+V2-0018,Version 2 - Monsoon,MSR-06,2026-01-03T20:00:00+00:00,74.91,19.2,15.08,5,21.19,10.28,2,Moisture Risk
+V2-0019,Version 2 - Monsoon,MSR-01,2026-01-04T00:00:00+00:00,73.17,24.29,20.5,8,13.76,6.32,0,Moisture Risk
+V2-0020,Version 2 - Monsoon,MSR-02,2026-01-04T04:00:00+00:00,82.95,20.48,17.57,4,6.35,20.47,1,Moisture Risk
+V2-0021,Version 2 - Monsoon,MSR-03,2026-01-04T08:00:00+00:00,70.54,20.91,16.85,1,12.08,14.3,1,Moisture Risk
+V2-0022,Version 2 - Monsoon,MSR-04,2026-01-04T12:00:00+00:00,76.6,19.59,15.73,6,30.02,7.19,2,Moisture Risk
+V2-0023,Version 2 - Monsoon,MSR-05,2026-01-04T16:00:00+00:00,60.5,18.56,15.66,5,14.15,22.43,1,Storage Conditions Acceptable
+V2-0024,Version 2 - Monsoon,MSR-06,2026-01-04T20:00:00+00:00,79.5,21.02,16.73,5,13.76,17.95,0,Moisture Risk
+V2-0025,Version 2 - Monsoon,MSR-01,2026-01-05T00:00:00+00:00,98.0,16.3,11.96,4,19.8,17.32,1,Moisture Risk
+V2-0026,Version 2 - Monsoon,MSR-02,2026-01-05T04:00:00+00:00,70.12,20.34,17.71,4,17.11,11.94,3,Storage Conditions Acceptable
+V2-0027,Version 2 - Monsoon,MSR-03,2026-01-05T08:00:00+00:00,69.85,17.1,14.08,5,23.23,17.21,2,Storage Conditions Acceptable
+V2-0028,Version 2 - Monsoon,MSR-04,2026-01-05T12:00:00+00:00,89.28,21.61,17.71,1,32.3,13.48,0,Moisture Risk
+V2-0029,Version 2 - Monsoon,MSR-05,2026-01-05T16:00:00+00:00,80.66,17.23,11.71,9,12.39,12.79,0,Moisture Risk
+V2-0030,Version 2 - Monsoon,MSR-06,2026-01-05T20:00:00+00:00,68.96,24.36,21.44,5,12.57,8.03,2,Storage Conditions Acceptable
+V2-0031,Version 2 - Monsoon,MSR-01,2026-01-06T00:00:00+00:00,66.47,22.36,18.08,4,34.51,14.08,0,Storage Conditions Acceptable
+V2-0032,Version 2 - Monsoon,MSR-02,2026-01-06T04:00:00+00:00,63.54,21.5,18.32,10,23.08,11.52,0,Storage Conditions Acceptable
+V2-0033,Version 2 - Monsoon,MSR-03,2026-01-06T08:00:00+00:00,79.64,21.42,16.53,3,32.4,8.52,1,Moisture Risk
+V2-0034,Version 2 - Monsoon,MSR-04,2026-01-06T12:00:00+00:00,60.2,17.69,14.09,7,24.27,13.39,1,Storage Conditions Acceptable
+V2-0035,Version 2 - Monsoon,MSR-05,2026-01-06T16:00:00+00:00,78.19,20.17,15.53,7,17.37,7.6,0,Moisture Risk
+V2-0036,Version 2 - Monsoon,MSR-06,2026-01-06T20:00:00+00:00,63.4,22.63,20.22,3,22.0,9.95,1,Storage Conditions Acceptable
+V2-0037,Version 2 - Monsoon,MSR-01,2026-01-07T00:00:00+00:00,63.82,16.71,11.4,7,34.53,19.99,2,Storage Conditions Acceptable
+V2-0038,Version 2 - Monsoon,MSR-02,2026-01-07T04:00:00+00:00,95.53,19.61,16.09,4,25.69,6.75,2,Moisture Risk
+V2-0039,Version 2 - Monsoon,MSR-03,2026-01-07T08:00:00+00:00,76.48,20.94,18.0,3,16.99,13.07,0,Moisture Risk
+V2-0040,Version 2 - Monsoon,MSR-04,2026-01-07T12:00:00+00:00,73.79,22.02,17.45,3,16.19,13.38,1,Moisture Risk
+V2-0041,Version 2 - Monsoon,MSR-05,2026-01-07T16:00:00+00:00,83.66,22.01,19.09,4,18.72,4.45,3,Moisture Risk
+V2-0042,Version 2 - Monsoon,MSR-06,2026-01-07T20:00:00+00:00,76.12,19.62,15.13,9,16.89,11.58,1,Moisture Risk
+V2-0043,Version 2 - Monsoon,MSR-01,2026-01-08T00:00:00+00:00,64.34,21.18,17.68,5,19.42,6.94,0,Storage Conditions Acceptable
+V2-0044,Version 2 - Monsoon,MSR-02,2026-01-08T04:00:00+00:00,66.88,17.28,12.98,2,17.48,13.81,4,Moisture Risk
+V2-0045,Version 2 - Monsoon,MSR-03,2026-01-08T08:00:00+00:00,82.98,19.55,17.36,5,28.33,14.35,2,Moisture Risk
+V2-0046,Version 2 - Monsoon,MSR-04,2026-01-08T12:00:00+00:00,80.58,18.06,13.74,10,27.42,12.15,1,Moisture Risk
+V2-0047,Version 2 - Monsoon,MSR-05,2026-01-08T16:00:00+00:00,68.83,19.85,16.95,8,10.11,7.58,1,Storage Conditions Acceptable
+V2-0048,Version 2 - Monsoon,MSR-06,2026-01-08T20:00:00+00:00,81.54,20.65,17.05,1,25.31,11.38,2,Moisture Risk
+V2-0049,Version 2 - Monsoon,MSR-01,2026-01-09T00:00:00+00:00,80.94,20.38,15.19,6,19.23,9.66,1,Moisture Risk
+V2-0050,Version 2 - Monsoon,MSR-02,2026-01-09T04:00:00+00:00,76.32,17.12,13.51,2,28.53,16.4,1,Moisture Risk
+V2-0051,Version 2 - Monsoon,MSR-03,2026-01-09T08:00:00+00:00,73.39,20.68,15.07,7,25.39,14.89,1,Moisture Risk
+V2-0052,Version 2 - Monsoon,MSR-04,2026-01-09T12:00:00+00:00,73.44,18.54,16.21,5,27.58,7.69,4,Moisture Risk
+V2-0053,Version 2 - Monsoon,MSR-05,2026-01-09T16:00:00+00:00,64.5,16.65,13.44,6,23.54,9.5,1,Storage Conditions Acceptable
+V2-0054,Version 2 - Monsoon,MSR-06,2026-01-09T20:00:00+00:00,68.85,16.38,12.78,5,14.36,1.95,2,Moisture Risk
+V2-0055,Version 2 - Monsoon,MSR-01,2026-01-10T00:00:00+00:00,81.05,20.98,15.32,6,24.51,12.56,1,Moisture Risk
+V2-0056,Version 2 - Monsoon,MSR-02,2026-01-10T04:00:00+00:00,74.56,22.32,19.66,12,18.38,6.91,3,Moisture Risk
+V2-0057,Version 2 - Monsoon,MSR-03,2026-01-10T08:00:00+00:00,85.45,20.66,18.96,5,11.25,17.96,1,Moisture Risk
+V2-0058,Version 2 - Monsoon,MSR-04,2026-01-10T12:00:00+00:00,81.29,17.55,12.09,3,2.0,16.85,1,Moisture Risk
+V2-0059,Version 2 - Monsoon,MSR-05,2026-01-10T16:00:00+00:00,96.88,14.73,9.66,4,20.26,11.88,2,Moisture Risk
+V2-0060,Version 2 - Monsoon,MSR-06,2026-01-10T20:00:00+00:00,78.1,22.14,17.96,3,40.33,6.97,1,Moisture Risk
+V2-0061,Version 2 - Monsoon,MSR-01,2026-01-11T00:00:00+00:00,84.16,20.7,15.77,4,24.96,12.09,5,Moisture Risk
+V2-0062,Version 2 - Monsoon,MSR-02,2026-01-11T04:00:00+00:00,77.83,17.99,13.89,3,15.72,2.51,2,Moisture Risk
+V2-0063,Version 2 - Monsoon,MSR-03,2026-01-11T08:00:00+00:00,81.23,23.87,18.67,6,20.73,14.14,1,Moisture Risk
+V2-0064,Version 2 - Monsoon,MSR-04,2026-01-11T12:00:00+00:00,78.93,22.45,19.63,3,14.39,17.36,1,Moisture Risk
+V2-0065,Version 2 - Monsoon,MSR-05,2026-01-11T16:00:00+00:00,76.87,20.73,18.01,6,27.32,4.15,1,Moisture Risk
+V2-0066,Version 2 - Monsoon,MSR-06,2026-01-11T20:00:00+00:00,90.31,20.54,16.79,1,19.96,11.37,5,Moisture Risk
+V2-0067,Version 2 - Monsoon,MSR-01,2026-01-12T00:00:00+00:00,73.94,21.45,17.15,9,8.44,16.98,2,Moisture Risk
+V2-0068,Version 2 - Monsoon,MSR-02,2026-01-12T04:00:00+00:00,86.88,20.98,17.83,8,19.89,11.64,1,Moisture Risk
+V2-0069,Version 2 - Monsoon,MSR-03,2026-01-12T08:00:00+00:00,91.48,18.48,16.6,6,22.21,17.56,2,Moisture Risk
+V2-0070,Version 2 - Monsoon,MSR-04,2026-01-12T12:00:00+00:00,69.06,14.95,10.65,6,22.31,15.48,2,Moisture Risk
+V2-0071,Version 2 - Monsoon,MSR-05,2026-01-12T16:00:00+00:00,76.21,18.05,14.25,5,19.12,13.33,1,Moisture Risk
+V2-0072,Version 2 - Monsoon,MSR-06,2026-01-12T20:00:00+00:00,80.97,18.99,14.64,4,10.23,10.65,2,Moisture Risk
+V2-0073,Version 2 - Monsoon,MSR-01,2026-01-13T00:00:00+00:00,71.71,24.7,21.64,2,18.1,12.14,1,Storage Conditions Acceptable
+V2-0074,Version 2 - Monsoon,MSR-02,2026-01-13T04:00:00+00:00,85.58,23.6,18.5,5,20.44,13.95,2,Moisture Risk
+V2-0075,Version 2 - Monsoon,MSR-03,2026-01-13T08:00:00+00:00,82.94,22.85,19.09,5,26.67,17.42,2,Moisture Risk
+V2-0076,Version 2 - Monsoon,MSR-04,2026-01-13T12:00:00+00:00,71.37,20.09,17.16,6,16.82,8.14,4,Storage Conditions Acceptable
+V2-0077,Version 2 - Monsoon,MSR-05,2026-01-13T16:00:00+00:00,70.15,21.39,17.83,5,24.78,13.6,1,Storage Conditions Acceptable
+V2-0078,Version 2 - Monsoon,MSR-06,2026-01-13T20:00:00+00:00,66.98,16.74,13.33,9,15.8,8.9,0,Moisture Risk
+V2-0079,Version 2 - Monsoon,MSR-01,2026-01-14T00:00:00+00:00,53.46,23.37,17.85,3,27.13,14.67,3,Storage Conditions Acceptable
+V2-0080,Version 2 - Monsoon,MSR-02,2026-01-14T04:00:00+00:00,71.8,15.65,11.79,4,25.74,9.76,1,Moisture Risk
+V2-0081,Version 2 - Monsoon,MSR-03,2026-01-14T08:00:00+00:00,73.37,18.87,15.87,3,10.94,9.05,1,Moisture Risk
+V2-0082,Version 2 - Monsoon,MSR-04,2026-01-14T12:00:00+00:00,74.45,19.5,16.92,4,21.86,10.82,0,Storage Conditions Acceptable
+V2-0083,Version 2 - Monsoon,MSR-05,2026-01-14T16:00:00+00:00,79.84,18.89,16.52,8,29.22,7.05,4,Moisture Risk
+V2-0084,Version 2 - Monsoon,MSR-06,2026-01-14T20:00:00+00:00,78.88,20.19,16.42,4,16.02,6.84,2,Moisture Risk
+V2-0085,Version 2 - Monsoon,MSR-01,2026-01-15T00:00:00+00:00,81.59,18.68,15.03,3,13.12,1.0,2,Moisture Risk
+V2-0086,Version 2 - Monsoon,MSR-02,2026-01-15T04:00:00+00:00,76.26,15.29,10.42,2,30.15,14.94,2,Moisture Risk
+V2-0087,Version 2 - Monsoon,MSR-03,2026-01-15T08:00:00+00:00,76.73,21.56,17.62,4,14.43,6.45,1,Moisture Risk
+V2-0088,Version 2 - Monsoon,MSR-04,2026-01-15T12:00:00+00:00,80.6,19.18,15.79,4,38.15,9.71,0,Moisture Risk
+V2-0089,Version 2 - Monsoon,MSR-05,2026-01-15T16:00:00+00:00,77.27,17.89,14.08,4,21.13,13.85,4,Moisture Risk
+V2-0090,Version 2 - Monsoon,MSR-06,2026-01-15T20:00:00+00:00,79.04,19.55,17.12,5,4.4,10.63,1,Moisture Risk
+V2-0091,Version 2 - Monsoon,MSR-01,2026-01-16T00:00:00+00:00,82.08,20.68,17.76,10,31.7,16.25,0,Moisture Risk
+V2-0092,Version 2 - Monsoon,MSR-02,2026-01-16T04:00:00+00:00,81.63,16.68,12.66,5,32.2,7.25,3,Moisture Risk
+V2-0093,Version 2 - Monsoon,MSR-03,2026-01-16T08:00:00+00:00,77.72,21.54,17.02,3,20.44,22.61,1,Moisture Risk
+V2-0094,Version 2 - Monsoon,MSR-04,2026-01-16T12:00:00+00:00,82.33,23.18,21.18,4,11.1,11.0,2,Moisture Risk
+V2-0095,Version 2 - Monsoon,MSR-05,2026-01-16T16:00:00+00:00,73.65,17.47,11.7,7,29.25,8.94,0,Moisture Risk
+V2-0096,Version 2 - Monsoon,MSR-06,2026-01-16T20:00:00+00:00,57.54,19.38,14.74,6,14.17,11.64,0,Storage Conditions Acceptable
+V2-0097,Version 2 - Monsoon,MSR-01,2026-01-17T00:00:00+00:00,82.35,20.03,16.61,7,15.23,10.46,1,Moisture Risk
+V2-0098,Version 2 - Monsoon,MSR-02,2026-01-17T04:00:00+00:00,79.17,18.82,15.67,5,2.0,11.91,1,Moisture Risk
+V2-0099,Version 2 - Monsoon,MSR-03,2026-01-17T08:00:00+00:00,64.53,18.32,15.29,4,22.74,9.23,2,Storage Conditions Acceptable
+V2-0100,Version 2 - Monsoon,MSR-04,2026-01-17T12:00:00+00:00,83.84,19.7,17.0,5,17.57,13.32,1,Moisture Risk
+V2-0101,Version 2 - Monsoon,MSR-05,2026-01-17T16:00:00+00:00,73.7,20.79,17.84,5,17.37,13.06,3,Moisture Risk
+V2-0102,Version 2 - Monsoon,MSR-06,2026-01-17T20:00:00+00:00,63.14,17.38,15.22,2,20.74,15.23,0,Storage Conditions Acceptable
+V2-0103,Version 2 - Monsoon,MSR-01,2026-01-18T00:00:00+00:00,76.14,21.72,16.97,6,22.44,9.5,1,Moisture Risk
+V2-0104,Version 2 - Monsoon,MSR-02,2026-01-18T04:00:00+00:00,79.2,15.79,13.26,3,22.97,6.68,1,Moisture Risk
+V2-0105,Version 2 - Monsoon,MSR-03,2026-01-18T08:00:00+00:00,70.96,19.69,16.67,4,32.69,16.12,1,Storage Conditions Acceptable
+V2-0106,Version 2 - Monsoon,MSR-04,2026-01-18T12:00:00+00:00,67.24,22.95,17.7,3,26.02,16.65,0,Storage Conditions Acceptable
+V2-0107,Version 2 - Monsoon,MSR-05,2026-01-18T16:00:00+00:00,67.46,21.64,17.66,2,23.06,20.53,1,Storage Conditions Acceptable
+V2-0108,Version 2 - Monsoon,MSR-06,2026-01-18T20:00:00+00:00,82.52,20.46,17.19,8,20.52,14.39,0,Moisture Risk
+V2-0109,Version 2 - Monsoon,MSR-01,2026-01-19T00:00:00+00:00,84.63,17.63,13.82,9,16.84,6.37,3,Moisture Risk
+V2-0110,Version 2 - Monsoon,MSR-02,2026-01-19T04:00:00+00:00,68.49,18.48,15.11,4,9.79,7.64,0,Storage Conditions Acceptable
+V2-0111,Version 2 - Monsoon,MSR-03,2026-01-19T08:00:00+00:00,69.23,22.73,19.27,3,21.99,12.75,0,Storage Conditions Acceptable
+V2-0112,Version 2 - Monsoon,MSR-04,2026-01-19T12:00:00+00:00,68.96,20.21,17.69,11,22.84,10.65,0,Storage Conditions Acceptable
+V2-0113,Version 2 - Monsoon,MSR-05,2026-01-19T16:00:00+00:00,85.14,21.13,18.88,1,17.49,11.07,0,Moisture Risk
+V2-0114,Version 2 - Monsoon,MSR-06,2026-01-19T20:00:00+00:00,61.48,19.58,16.4,8,20.03,14.26,1,Storage Conditions Acceptable
+V2-0115,Version 2 - Monsoon,MSR-01,2026-01-20T00:00:00+00:00,70.21,16.64,12.53,9,10.86,9.72,2,Moisture Risk
+V2-0116,Version 2 - Monsoon,MSR-02,2026-01-20T04:00:00+00:00,86.05,18.39,13.35,5,11.11,13.9,1,Moisture Risk
+V2-0117,Version 2 - Monsoon,MSR-03,2026-01-20T08:00:00+00:00,83.16,22.29,17.8,7,27.16,14.77,1,Moisture Risk
+V2-0118,Version 2 - Monsoon,MSR-04,2026-01-20T12:00:00+00:00,75.33,20.53,18.57,3,21.31,8.9,1,Storage Conditions Acceptable
+V2-0119,Version 2 - Monsoon,MSR-05,2026-01-20T16:00:00+00:00,70.47,22.9,18.03,1,15.69,2.11,3,Moisture Risk
+V2-0120,Version 2 - Monsoon,MSR-06,2026-01-20T20:00:00+00:00,76.07,21.23,17.07,7,16.41,10.21,1,Moisture Risk
+V2-0121,Version 2 - Monsoon,MSR-01,2026-01-21T00:00:00+00:00,82.98,19.9,15.95,5,29.58,8.85,0,Moisture Risk
+V2-0122,Version 2 - Monsoon,MSR-02,2026-01-21T04:00:00+00:00,68.53,21.92,19.35,4,17.02,11.49,2,Storage Conditions Acceptable
+V2-0123,Version 2 - Monsoon,MSR-03,2026-01-21T08:00:00+00:00,80.88,20.06,14.81,7,14.53,15.96,0,Moisture Risk
+V2-0124,Version 2 - Monsoon,MSR-04,2026-01-21T12:00:00+00:00,76.82,19.78,17.72,5,25.85,4.7,2,Storage Conditions Acceptable
+V2-0125,Version 2 - Monsoon,MSR-05,2026-01-21T16:00:00+00:00,82.32,20.22,17.93,5,27.14,15.03,0,Moisture Risk
+V2-0126,Version 2 - Monsoon,MSR-06,2026-01-21T20:00:00+00:00,77.55,21.79,19.82,6,5.44,20.03,1,Storage Conditions Acceptable
+V2-0127,Version 2 - Monsoon,MSR-01,2026-01-22T00:00:00+00:00,77.55,18.46,13.97,6,32.45,10.71,2,Moisture Risk
+V2-0128,Version 2 - Monsoon,MSR-02,2026-01-22T04:00:00+00:00,97.85,19.91,15.37,5,14.57,10.48,1,Moisture Risk
+V2-0129,Version 2 - Monsoon,MSR-03,2026-01-22T08:00:00+00:00,71.06,16.14,12.61,4,15.14,11.86,0,Moisture Risk
+V2-0130,Version 2 - Monsoon,MSR-04,2026-01-22T12:00:00+00:00,66.82,21.54,18.91,2,29.37,6.51,2,Storage Conditions Acceptable
+V2-0131,Version 2 - Monsoon,MSR-05,2026-01-22T16:00:00+00:00,81.01,21.33,16.61,4,35.08,15.59,0,Moisture Risk
+V2-0132,Version 2 - Monsoon,MSR-06,2026-01-22T20:00:00+00:00,67.3,23.71,18.95,2,23.17,9.57,2,Storage Conditions Acceptable
+V2-0133,Version 2 - Monsoon,MSR-01,2026-01-23T00:00:00+00:00,79.21,20.75,15.61,6,11.1,9.1,1,Moisture Risk
+V2-0134,Version 2 - Monsoon,MSR-02,2026-01-23T04:00:00+00:00,75.44,19.33,16.68,4,14.01,15.03,0,Moisture Risk
+V2-0135,Version 2 - Monsoon,MSR-03,2026-01-23T08:00:00+00:00,85.45,20.36,16.26,3,17.67,15.38,1,Moisture Risk
+V2-0136,Version 2 - Monsoon,MSR-04,2026-01-23T12:00:00+00:00,78.41,22.0,17.91,7,34.27,12.35,0,Moisture Risk
+V2-0137,Version 2 - Monsoon,MSR-05,2026-01-23T16:00:00+00:00,68.22,18.79,15.16,4,23.92,7.94,4,Storage Conditions Acceptable
+V2-0138,Version 2 - Monsoon,MSR-06,2026-01-23T20:00:00+00:00,79.72,21.85,18.6,5,12.71,15.1,1,Moisture Risk
+V2-0139,Version 2 - Monsoon,MSR-01,2026-01-24T00:00:00+00:00,73.61,16.45,12.38,5,15.3,11.48,2,Moisture Risk
+V2-0140,Version 2 - Monsoon,MSR-02,2026-01-24T04:00:00+00:00,64.5,20.49,17.51,3,13.65,12.89,1,Storage Conditions Acceptable
+V2-0141,Version 2 - Monsoon,MSR-03,2026-01-24T08:00:00+00:00,60.7,20.08,16.03,4,20.66,16.8,1,Storage Conditions Acceptable
+V2-0142,Version 2 - Monsoon,MSR-04,2026-01-24T12:00:00+00:00,66.52,18.46,14.4,2,32.65,13.81,2,Storage Conditions Acceptable
+V2-0143,Version 2 - Monsoon,MSR-05,2026-01-24T16:00:00+00:00,98.0,20.22,16.06,3,20.7,13.49,1,Moisture Risk
+V2-0144,Version 2 - Monsoon,MSR-06,2026-01-24T20:00:00+00:00,82.89,18.82,14.09,6,22.21,13.08,3,Moisture Risk
+V2-0145,Version 2 - Monsoon,MSR-01,2026-01-25T00:00:00+00:00,70.45,20.62,15.32,5,11.62,10.55,0,Moisture Risk
+V2-0146,Version 2 - Monsoon,MSR-02,2026-01-25T04:00:00+00:00,65.58,18.21,13.91,2,19.49,9.47,4,Storage Conditions Acceptable
+V2-0147,Version 2 - Monsoon,MSR-03,2026-01-25T08:00:00+00:00,79.57,20.88,15.33,3,19.54,3.27,1,Moisture Risk
+V2-0148,Version 2 - Monsoon,MSR-04,2026-01-25T12:00:00+00:00,76.4,20.67,17.55,7,6.86,16.29,1,Moisture Risk
+V2-0149,Version 2 - Monsoon,MSR-05,2026-01-25T16:00:00+00:00,64.15,20.01,15.96,9,14.58,1.0,1,Storage Conditions Acceptable
+V2-0150,Version 2 - Monsoon,MSR-06,2026-01-25T20:00:00+00:00,78.97,21.07,18.54,4,19.49,15.53,0,Moisture Risk
+V2-0151,Version 2 - Monsoon,MSR-01,2026-01-26T00:00:00+00:00,74.94,22.18,20.54,4,10.42,15.43,2,Storage Conditions Acceptable
+V2-0152,Version 2 - Monsoon,MSR-02,2026-01-26T04:00:00+00:00,66.02,20.6,17.47,5,12.22,13.47,0,Storage Conditions Acceptable
+V2-0153,Version 2 - Monsoon,MSR-03,2026-01-26T08:00:00+00:00,77.89,21.65,18.7,7,23.3,11.8,1,Moisture Risk
+V2-0154,Version 2 - Monsoon,MSR-04,2026-01-26T12:00:00+00:00,80.06,18.23,15.48,3,33.67,14.63,1,Moisture Risk
+V2-0155,Version 2 - Monsoon,MSR-05,2026-01-26T16:00:00+00:00,63.42,19.52,13.68,5,15.15,4.46,4,Moisture Risk
+V2-0156,Version 2 - Monsoon,MSR-06,2026-01-26T20:00:00+00:00,67.38,20.86,15.48,5,18.0,2.38,2,Moisture Risk
+V2-0157,Version 2 - Monsoon,MSR-01,2026-01-27T00:00:00+00:00,81.38,23.61,19.86,3,6.17,6.51,1,Moisture Risk
+V2-0158,Version 2 - Monsoon,MSR-02,2026-01-27T04:00:00+00:00,98.0,19.66,15.79,3,14.4,10.01,0,Moisture Risk
+V2-0159,Version 2 - Monsoon,MSR-03,2026-01-27T08:00:00+00:00,81.38,22.64,19.89,8,20.49,14.57,0,Moisture Risk
+V2-0160,Version 2 - Monsoon,MSR-04,2026-01-27T12:00:00+00:00,81.89,18.21,16.01,4,29.48,12.36,1,Moisture Risk
+V2-0161,Version 2 - Monsoon,MSR-05,2026-01-27T16:00:00+00:00,75.54,17.37,13.3,8,21.97,21.27,2,Moisture Risk
+V2-0162,Version 2 - Monsoon,MSR-06,2026-01-27T20:00:00+00:00,72.57,17.8,15.17,9,41.78,13.82,1,Storage Conditions Acceptable
+V2-0163,Version 2 - Monsoon,MSR-01,2026-01-28T00:00:00+00:00,69.32,19.07,16.6,2,18.72,6.86,0,Storage Conditions Acceptable
+V2-0164,Version 2 - Monsoon,MSR-02,2026-01-28T04:00:00+00:00,80.02,16.68,11.9,4,27.64,8.86,1,Moisture Risk
+V2-0165,Version 2 - Monsoon,MSR-03,2026-01-28T08:00:00+00:00,86.21,22.6,17.47,6,36.37,15.96,1,Moisture Risk
+V2-0166,Version 2 - Monsoon,MSR-04,2026-01-28T12:00:00+00:00,68.94,19.48,15.37,6,21.45,6.56,0,Storage Conditions Acceptable
+V2-0167,Version 2 - Monsoon,MSR-05,2026-01-28T16:00:00+00:00,72.17,21.39,16.99,3,10.9,14.02,1,Moisture Risk
+V2-0168,Version 2 - Monsoon,MSR-06,2026-01-28T20:00:00+00:00,68.28,20.09,17.11,9,21.53,1.82,2,Storage Conditions Acceptable
+V2-0169,Version 2 - Monsoon,MSR-01,2026-01-29T00:00:00+00:00,80.32,22.73,19.7,8,13.37,14.42,3,Moisture Risk
+V2-0170,Version 2 - Monsoon,MSR-02,2026-01-29T04:00:00+00:00,75.73,22.96,21.36,5,15.19,4.97,0,Moisture Risk
+V2-0171,Version 2 - Monsoon,MSR-03,2026-01-29T08:00:00+00:00,65.18,17.27,11.66,5,10.95,5.13,0,Moisture Risk
+V2-0172,Version 2 - Monsoon,MSR-04,2026-01-29T12:00:00+00:00,77.76,21.09,18.77,3,17.37,10.44,0,Moisture Risk
+V2-0173,Version 2 - Monsoon,MSR-05,2026-01-29T16:00:00+00:00,98.0,19.76,17.71,7,25.04,10.54,0,Moisture Risk
+V2-0174,Version 2 - Monsoon,MSR-06,2026-01-29T20:00:00+00:00,88.72,20.69,16.34,3,19.32,13.72,2,Moisture Risk
+V2-0175,Version 2 - Monsoon,MSR-01,2026-01-30T00:00:00+00:00,64.93,19.65,15.06,3,16.44,16.83,1,Storage Conditions Acceptable
+V2-0176,Version 2 - Monsoon,MSR-02,2026-01-30T04:00:00+00:00,69.32,19.44,13.93,2,27.47,12.53,1,Moisture Risk
+V2-0177,Version 2 - Monsoon,MSR-03,2026-01-30T08:00:00+00:00,75.66,22.61,17.65,2,17.99,10.12,0,Moisture Risk
+V2-0178,Version 2 - Monsoon,MSR-04,2026-01-30T12:00:00+00:00,65.05,17.91,13.89,2,27.46,8.34,0,Storage Conditions Acceptable
+V2-0179,Version 2 - Monsoon,MSR-05,2026-01-30T16:00:00+00:00,72.82,20.68,17.53,6,27.91,14.05,0,Storage Conditions Acceptable
+V2-0180,Version 2 - Monsoon,MSR-06,2026-01-30T20:00:00+00:00,73.25,21.71,17.66,2,20.76,10.61,0,Moisture Risk
+V2-0181,Version 2 - Monsoon,MSR-01,2026-01-31T00:00:00+00:00,73.56,19.79,16.89,4,21.94,7.26,2,Moisture Risk
+V2-0182,Version 2 - Monsoon,MSR-02,2026-01-31T04:00:00+00:00,67.8,17.7,13.03,3,28.01,16.74,1,Moisture Risk
+V2-0183,Version 2 - Monsoon,MSR-03,2026-01-31T08:00:00+00:00,85.25,18.5,16.72,4,2.0,5.46,0,Moisture Risk
+V2-0184,Version 2 - Monsoon,MSR-04,2026-01-31T12:00:00+00:00,68.32,20.4,16.91,5,13.04,13.61,1,Storage Conditions Acceptable
+V2-0185,Version 2 - Monsoon,MSR-05,2026-01-31T16:00:00+00:00,77.09,20.77,17.02,7,22.04,5.83,1,Moisture Risk
+V2-0186,Version 2 - Monsoon,MSR-06,2026-01-31T20:00:00+00:00,90.83,23.54,21.42,2,4.91,17.4,2,Moisture Risk
+V2-0187,Version 2 - Monsoon,MSR-01,2026-02-01T00:00:00+00:00,82.37,21.39,18.26,3,12.38,16.75,1,Moisture Risk
+V2-0188,Version 2 - Monsoon,MSR-02,2026-02-01T04:00:00+00:00,86.05,24.83,22.36,4,22.38,18.49,0,Moisture Risk
+V2-0189,Version 2 - Monsoon,MSR-03,2026-02-01T08:00:00+00:00,82.47,21.93,16.45,5,17.37,11.84,2,Moisture Risk
+V2-0190,Version 2 - Monsoon,MSR-04,2026-02-01T12:00:00+00:00,71.99,21.57,18.86,6,23.63,12.72,0,Storage Conditions Acceptable
+V2-0191,Version 2 - Monsoon,MSR-05,2026-02-01T16:00:00+00:00,90.12,21.2,18.2,5,19.98,10.57,1,Moisture Risk
+V2-0192,Version 2 - Monsoon,MSR-06,2026-02-01T20:00:00+00:00,80.87,20.73,16.28,5,15.13,14.21,4,Moisture Risk
+V2-0193,Version 2 - Monsoon,MSR-01,2026-02-02T00:00:00+00:00,55.88,23.55,18.56,6,22.32,17.38,0,Storage Conditions Acceptable
+V2-0194,Version 2 - Monsoon,MSR-02,2026-02-02T04:00:00+00:00,78.21,23.4,19.27,6,30.13,13.95,0,Moisture Risk
+V2-0195,Version 2 - Monsoon,MSR-03,2026-02-02T08:00:00+00:00,72.17,19.78,14.8,6,42.5,12.5,0,Moisture Risk
+V2-0196,Version 2 - Monsoon,MSR-04,2026-02-02T12:00:00+00:00,84.18,20.34,17.24,7,12.12,11.27,1,Moisture Risk
+V2-0197,Version 2 - Monsoon,MSR-05,2026-02-02T16:00:00+00:00,97.59,21.5,16.75,3,12.52,10.87,1,Moisture Risk
+V2-0198,Version 2 - Monsoon,MSR-06,2026-02-02T20:00:00+00:00,72.99,17.39,12.24,4,10.87,15.27,1,Moisture Risk
+V2-0199,Version 2 - Monsoon,MSR-01,2026-02-03T00:00:00+00:00,78.09,19.85,16.79,3,18.1,14.92,0,Moisture Risk
+V2-0200,Version 2 - Monsoon,MSR-02,2026-02-03T04:00:00+00:00,58.61,20.06,16.62,6,5.54,9.58,1,Storage Conditions Acceptable
+V2-0201,Version 2 - Monsoon,MSR-03,2026-02-03T08:00:00+00:00,81.65,19.72,16.69,6,14.35,14.0,1,Moisture Risk
+V2-0202,Version 2 - Monsoon,MSR-04,2026-02-03T12:00:00+00:00,61.76,20.43,16.81,4,20.68,13.58,0,Storage Conditions Acceptable
+V2-0203,Version 2 - Monsoon,MSR-05,2026-02-03T16:00:00+00:00,62.11,18.69,14.75,6,22.94,11.21,0,Storage Conditions Acceptable
+V2-0204,Version 2 - Monsoon,MSR-06,2026-02-03T20:00:00+00:00,71.58,18.28,13.42,3,13.17,14.86,4,Moisture Risk
+V2-0205,Version 2 - Monsoon,MSR-01,2026-02-04T00:00:00+00:00,74.85,24.43,19.51,6,13.38,23.42,0,Moisture Risk
+V2-0206,Version 2 - Monsoon,MSR-02,2026-02-04T04:00:00+00:00,54.72,21.17,18.03,8,9.56,14.3,3,Storage Conditions Acceptable
+V2-0207,Version 2 - Monsoon,MSR-03,2026-02-04T08:00:00+00:00,62.79,21.99,17.69,0,14.87,14.23,0,Storage Conditions Acceptable
+V2-0208,Version 2 - Monsoon,MSR-04,2026-02-04T12:00:00+00:00,75.98,20.22,15.19,5,13.54,8.91,0,Moisture Risk
+V2-0209,Version 2 - Monsoon,MSR-05,2026-02-04T16:00:00+00:00,75.28,19.68,15.29,6,25.62,8.52,2,Moisture Risk
+V2-0210,Version 2 - Monsoon,MSR-06,2026-02-04T20:00:00+00:00,81.05,20.64,15.49,0,17.11,15.54,3,Moisture Risk
+V2-0211,Version 2 - Monsoon,MSR-01,2026-02-05T00:00:00+00:00,75.45,18.59,15.77,1,21.81,12.96,1,Moisture Risk
+V2-0212,Version 2 - Monsoon,MSR-02,2026-02-05T04:00:00+00:00,72.86,19.64,14.11,7,16.9,17.76,0,Moisture Risk
+V2-0213,Version 2 - Monsoon,MSR-03,2026-02-05T08:00:00+00:00,84.16,21.09,16.07,6,13.97,11.56,1,Moisture Risk
+V2-0214,Version 2 - Monsoon,MSR-04,2026-02-05T12:00:00+00:00,66.78,19.62,15.42,6,18.17,11.48,3,Storage Conditions Acceptable
+V2-0215,Version 2 - Monsoon,MSR-05,2026-02-05T16:00:00+00:00,81.13,22.41,18.3,2,27.58,10.68,5,Moisture Risk
+V2-0216,Version 2 - Monsoon,MSR-06,2026-02-05T20:00:00+00:00,79.4,22.31,18.15,4,33.37,12.06,1,Moisture Risk
+V2-0217,Version 2 - Monsoon,MSR-01,2026-02-06T00:00:00+00:00,71.07,15.97,14.11,4,26.72,9.22,1,Storage Conditions Acceptable
+V2-0218,Version 2 - Monsoon,MSR-02,2026-02-06T04:00:00+00:00,59.88,20.89,18.62,10,17.58,12.15,1,Storage Conditions Acceptable
+V2-0219,Version 2 - Monsoon,MSR-03,2026-02-06T08:00:00+00:00,74.12,22.64,18.82,7,8.89,9.34,1,Moisture Risk
+V2-0220,Version 2 - Monsoon,MSR-04,2026-02-06T12:00:00+00:00,62.93,18.44,15.28,2,21.4,10.97,0,Storage Conditions Acceptable
+V2-0221,Version 2 - Monsoon,MSR-05,2026-02-06T16:00:00+00:00,63.87,20.18,18.61,3,13.61,10.66,2,Storage Conditions Acceptable
+V2-0222,Version 2 - Monsoon,MSR-06,2026-02-06T20:00:00+00:00,68.75,19.07,16.03,6,21.59,6.56,5,Storage Conditions Acceptable
+V2-0223,Version 2 - Monsoon,MSR-01,2026-02-07T00:00:00+00:00,71.03,17.19,13.85,4,26.08,5.21,0,Moisture Risk
+V2-0224,Version 2 - Monsoon,MSR-02,2026-02-07T04:00:00+00:00,69.35,19.77,16.36,7,16.62,19.11,0,Storage Conditions Acceptable
+V2-0225,Version 2 - Monsoon,MSR-03,2026-02-07T08:00:00+00:00,85.31,21.52,15.94,1,10.21,14.14,2,Moisture Risk
+V2-0226,Version 2 - Monsoon,MSR-04,2026-02-07T12:00:00+00:00,95.65,22.55,18.86,3,15.51,9.81,1,Moisture Risk
+V2-0227,Version 2 - Monsoon,MSR-05,2026-02-07T16:00:00+00:00,92.48,20.86,17.74,5,18.41,6.41,1,Moisture Risk
+V2-0228,Version 2 - Monsoon,MSR-06,2026-02-07T20:00:00+00:00,97.04,20.04,14.93,6,29.73,6.2,1,Moisture Risk
+V2-0229,Version 2 - Monsoon,MSR-01,2026-02-08T00:00:00+00:00,74.96,20.42,16.19,7,24.39,9.55,3,Moisture Risk
+V2-0230,Version 2 - Monsoon,MSR-02,2026-02-08T04:00:00+00:00,79.07,18.31,13.41,3,25.09,12.6,0,Moisture Risk
+V2-0231,Version 2 - Monsoon,MSR-03,2026-02-08T08:00:00+00:00,74.97,19.09,14.83,5,22.5,12.13,1,Moisture Risk
+V2-0232,Version 2 - Monsoon,MSR-04,2026-02-08T12:00:00+00:00,73.23,22.48,17.04,10,18.88,5.85,1,Moisture Risk
+V2-0233,Version 2 - Monsoon,MSR-05,2026-02-08T16:00:00+00:00,80.8,23.39,18.78,8,20.47,8.08,2,Moisture Risk
+V2-0234,Version 2 - Monsoon,MSR-06,2026-02-08T20:00:00+00:00,58.66,18.05,13.69,5,12.65,17.07,2,Storage Conditions Acceptable
+V2-0235,Version 2 - Monsoon,MSR-01,2026-02-09T00:00:00+00:00,82.2,21.85,17.81,8,35.54,2.68,0,Moisture Risk
+V2-0236,Version 2 - Monsoon,MSR-02,2026-02-09T04:00:00+00:00,71.44,22.69,17.64,4,17.15,2.33,4,Moisture Risk
+V2-0237,Version 2 - Monsoon,MSR-03,2026-02-09T08:00:00+00:00,72.89,20.53,17.73,6,24.36,17.36,2,Storage Conditions Acceptable
+V2-0238,Version 2 - Monsoon,MSR-04,2026-02-09T12:00:00+00:00,69.08,18.83,14.34,9,30.48,6.75,3,Moisture Risk
+V2-0239,Version 2 - Monsoon,MSR-05,2026-02-09T16:00:00+00:00,91.56,20.9,16.89,3,21.76,9.0,1,Moisture Risk
+V2-0240,Version 2 - Monsoon,MSR-06,2026-02-09T20:00:00+00:00,78.77,21.57,18.97,4,14.23,13.86,2,Moisture Risk
+V2-0241,Version 2 - Monsoon,MSR-01,2026-02-10T00:00:00+00:00,60.74,20.87,17.67,4,19.31,15.69,3,Storage Conditions Acceptable
+V2-0242,Version 2 - Monsoon,MSR-02,2026-02-10T04:00:00+00:00,89.36,16.83,11.49,8,23.93,13.56,1,Moisture Risk
+V2-0243,Version 2 - Monsoon,MSR-03,2026-02-10T08:00:00+00:00,91.98,21.76,18.84,3,19.63,4.27,0,Moisture Risk
+V2-0244,Version 2 - Monsoon,MSR-04,2026-02-10T12:00:00+00:00,76.09,18.54,14.72,1,31.81,16.53,0,Moisture Risk
+V2-0245,Version 2 - Monsoon,MSR-05,2026-02-10T16:00:00+00:00,90.68,19.21,15.75,4,27.54,15.74,1,Moisture Risk
+V2-0246,Version 2 - Monsoon,MSR-06,2026-02-10T20:00:00+00:00,71.53,21.73,16.38,2,16.02,12.7,2,Moisture Risk
+V2-0247,Version 2 - Monsoon,MSR-01,2026-02-11T00:00:00+00:00,73.87,18.79,14.99,5,21.86,8.66,0,Moisture Risk
+V2-0248,Version 2 - Monsoon,MSR-02,2026-02-11T04:00:00+00:00,78.97,18.81,15.74,6,7.06,8.77,2,Moisture Risk
+V2-0249,Version 2 - Monsoon,MSR-03,2026-02-11T08:00:00+00:00,68.52,19.74,15.99,8,24.28,10.0,0,Storage Conditions Acceptable
+V2-0250,Version 2 - Monsoon,MSR-04,2026-02-11T12:00:00+00:00,83.04,16.9,12.96,5,37.02,13.51,2,Moisture Risk
+V2-0251,Version 2 - Monsoon,MSR-05,2026-02-11T16:00:00+00:00,76.55,17.68,16.11,4,19.92,13.43,3,Storage Conditions Acceptable
+V2-0252,Version 2 - Monsoon,MSR-06,2026-02-11T20:00:00+00:00,76.71,18.9,15.22,1,9.31,14.68,3,Moisture Risk
+V2-0253,Version 2 - Monsoon,MSR-01,2026-02-12T00:00:00+00:00,59.11,21.43,16.35,4,17.45,15.42,1,Storage Conditions Acceptable
+V2-0254,Version 2 - Monsoon,MSR-02,2026-02-12T04:00:00+00:00,53.86,21.77,18.26,4,10.7,16.17,1,Storage Conditions Acceptable
+V2-0255,Version 2 - Monsoon,MSR-03,2026-02-12T08:00:00+00:00,77.06,19.45,16.9,6,34.37,6.6,5,Moisture Risk
+V2-0256,Version 2 - Monsoon,MSR-04,2026-02-12T12:00:00+00:00,94.38,21.43,17.38,6,13.29,14.73,3,Moisture Risk
+V2-0257,Version 2 - Monsoon,MSR-05,2026-02-12T16:00:00+00:00,59.9,16.52,14.67,5,16.7,18.87,1,Storage Conditions Acceptable
+V2-0258,Version 2 - Monsoon,MSR-06,2026-02-12T20:00:00+00:00,88.32,19.03,13.91,6,21.62,8.83,2,Moisture Risk
+V2-0259,Version 2 - Monsoon,MSR-01,2026-02-13T00:00:00+00:00,79.18,22.2,19.5,6,46.0,15.38,2,Moisture Risk
+V2-0260,Version 2 - Monsoon,MSR-02,2026-02-13T04:00:00+00:00,94.47,21.36,19.0,5,10.6,6.54,1,Moisture Risk
+V2-0261,Version 2 - Monsoon,MSR-03,2026-02-13T08:00:00+00:00,72.63,17.51,12.88,3,15.5,10.02,0,Moisture Risk
+V2-0262,Version 2 - Monsoon,MSR-04,2026-02-13T12:00:00+00:00,89.44,19.44,14.46,12,12.82,24.0,1,Moisture Risk
+V2-0263,Version 2 - Monsoon,MSR-05,2026-02-13T16:00:00+00:00,77.08,19.74,15.8,4,15.6,12.92,1,Moisture Risk
+V2-0264,Version 2 - Monsoon,MSR-06,2026-02-13T20:00:00+00:00,72.97,21.73,17.16,3,27.88,7.77,3,Moisture Risk
+V2-0265,Version 2 - Monsoon,MSR-01,2026-02-14T00:00:00+00:00,76.54,21.45,17.86,4,22.19,11.82,2,Moisture Risk
+V2-0266,Version 2 - Monsoon,MSR-02,2026-02-14T04:00:00+00:00,62.01,21.99,16.51,1,10.16,3.73,2,Storage Conditions Acceptable
+V2-0267,Version 2 - Monsoon,MSR-03,2026-02-14T08:00:00+00:00,78.91,19.51,15.01,1,22.31,10.09,0,Moisture Risk
+V2-0268,Version 2 - Monsoon,MSR-04,2026-02-14T12:00:00+00:00,59.54,18.38,14.54,8,26.25,15.0,2,Storage Conditions Acceptable
+V2-0269,Version 2 - Monsoon,MSR-05,2026-02-14T16:00:00+00:00,64.75,20.12,17.25,2,12.67,10.33,0,Storage Conditions Acceptable
+V2-0270,Version 2 - Monsoon,MSR-06,2026-02-14T20:00:00+00:00,80.92,20.46,16.39,3,27.84,7.81,0,Moisture Risk
+V2-0271,Version 2 - Monsoon,MSR-01,2026-02-15T00:00:00+00:00,78.22,19.97,16.91,4,17.03,10.16,0,Moisture Risk
+V2-0272,Version 2 - Monsoon,MSR-02,2026-02-15T04:00:00+00:00,86.63,20.95,19.19,6,16.63,8.07,3,Moisture Risk
+V2-0273,Version 2 - Monsoon,MSR-03,2026-02-15T08:00:00+00:00,83.88,21.72,19.58,7,18.39,11.05,1,Moisture Risk
+V2-0274,Version 2 - Monsoon,MSR-04,2026-02-15T12:00:00+00:00,74.05,18.82,16.51,3,27.64,21.8,1,Storage Conditions Acceptable
+V2-0275,Version 2 - Monsoon,MSR-05,2026-02-15T16:00:00+00:00,74.65,23.23,20.76,12,15.44,5.45,1,Storage Conditions Acceptable
+V2-0276,Version 2 - Monsoon,MSR-06,2026-02-15T20:00:00+00:00,83.17,19.18,14.94,3,23.53,24.0,0,Moisture Risk
+V2-0277,Version 2 - Monsoon,MSR-01,2026-02-16T00:00:00+00:00,84.45,21.09,18.09,5,19.84,11.22,0,Moisture Risk
+V2-0278,Version 2 - Monsoon,MSR-02,2026-02-16T04:00:00+00:00,74.33,20.7,16.88,5,21.57,4.53,1,Moisture Risk
+V2-0279,Version 2 - Monsoon,MSR-03,2026-02-16T08:00:00+00:00,65.92,15.47,12.96,7,30.5,11.18,0,Storage Conditions Acceptable
+V2-0280,Version 2 - Monsoon,MSR-04,2026-02-16T12:00:00+00:00,80.75,16.08,14.31,1,22.36,6.87,1,Moisture Risk
+V2-0281,Version 2 - Monsoon,MSR-05,2026-02-16T16:00:00+00:00,82.13,19.28,16.02,4,5.53,12.16,0,Moisture Risk
+V2-0282,Version 2 - Monsoon,MSR-06,2026-02-16T20:00:00+00:00,66.61,20.69,17.77,3,23.48,16.57,1,Storage Conditions Acceptable
+V2-0283,Version 2 - Monsoon,MSR-01,2026-02-17T00:00:00+00:00,67.73,19.16,15.3,2,12.64,12.39,1,Storage Conditions Acceptable
+V2-0284,Version 2 - Monsoon,MSR-02,2026-02-17T04:00:00+00:00,73.04,20.46,16.05,9,6.67,12.52,6,Moisture Risk
+V2-0285,Version 2 - Monsoon,MSR-03,2026-02-17T08:00:00+00:00,90.35,22.11,17.84,4,29.02,18.57,0,Moisture Risk
+V2-0286,Version 2 - Monsoon,MSR-04,2026-02-17T12:00:00+00:00,73.94,21.17,18.66,5,27.61,24.0,3,Storage Conditions Acceptable
+V2-0287,Version 2 - Monsoon,MSR-05,2026-02-17T16:00:00+00:00,59.25,19.71,14.81,4,29.18,4.46,2,Storage Conditions Acceptable
+V2-0288,Version 2 - Monsoon,MSR-06,2026-02-17T20:00:00+00:00,67.55,20.61,17.13,10,16.3,12.09,1,Storage Conditions Acceptable
+V2-0289,Version 2 - Monsoon,MSR-01,2026-02-18T00:00:00+00:00,70.39,21.05,17.2,6,31.22,12.22,1,Storage Conditions Acceptable
+V2-0290,Version 2 - Monsoon,MSR-02,2026-02-18T04:00:00+00:00,62.09,19.79,15.76,8,22.29,12.32,0,Storage Conditions Acceptable
+V2-0291,Version 2 - Monsoon,MSR-03,2026-02-18T08:00:00+00:00,71.64,22.27,19.45,5,26.45,15.75,3,Storage Conditions Acceptable
+V2-0292,Version 2 - Monsoon,MSR-04,2026-02-18T12:00:00+00:00,79.9,23.52,21.34,6,4.84,21.17,2,Moisture Risk
+V2-0293,Version 2 - Monsoon,MSR-05,2026-02-18T16:00:00+00:00,63.43,22.13,18.45,7,11.31,8.32,4,Storage Conditions Acceptable
+V2-0294,Version 2 - Monsoon,MSR-06,2026-02-18T20:00:00+00:00,79.71,18.22,13.91,1,22.37,12.15,1,Moisture Risk
+V2-0295,Version 2 - Monsoon,MSR-01,2026-02-19T00:00:00+00:00,90.63,20.21,17.36,4,13.62,11.09,1,Moisture Risk
+V2-0296,Version 2 - Monsoon,MSR-02,2026-02-19T04:00:00+00:00,57.7,20.49,18.39,8,17.07,7.18,3,Storage Conditions Acceptable
+V2-0297,Version 2 - Monsoon,MSR-03,2026-02-19T08:00:00+00:00,70.96,20.59,16.01,6,27.36,11.41,1,Moisture Risk
+V2-0298,Version 2 - Monsoon,MSR-04,2026-02-19T12:00:00+00:00,73.2,20.2,16.81,2,15.1,12.84,4,Moisture Risk
+V2-0299,Version 2 - Monsoon,MSR-05,2026-02-19T16:00:00+00:00,84.28,17.72,14.3,4,25.04,12.32,0,Moisture Risk
+V2-0300,Version 2 - Monsoon,MSR-06,2026-02-19T20:00:00+00:00,66.77,18.12,14.33,1,39.03,13.01,0,Storage Conditions Acceptable

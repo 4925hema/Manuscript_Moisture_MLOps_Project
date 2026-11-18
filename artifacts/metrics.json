@@ -1,0 +1,88 @@
+{
+  "created_at_utc": "2026-11-18T09:43:47.148555+00:00",
+  "dataset": {
+    "training_version": "Version 1 - Baseline",
+    "external_evaluation_version": "Version 2 - Monsoon",
+    "training_rows": 300,
+    "external_evaluation_rows": 300
+  },
+  "threshold": 0.35,
+  "selection_rule": "Highest Version 1 validation recall, then F1, then ROC-AUC",
+  "candidate_metrics": {
+    "Decision Tree": {
+      "validation_v1": {
+        "accuracy": 0.92,
+        "precision": 0.8333,
+        "recall": 0.5,
+        "f1": 0.625,
+        "roc_auc": 0.7423,
+        "confusion_matrix": [
+          [
+            64,
+            1
+          ],
+          [
+            5,
+            5
+          ]
+        ],
+        "support": {
+          "acceptable": 65,
+          "moisture_risk": 10
+        }
+      }
+    },
+    "Random Forest": {
+      "validation_v1": {
+        "accuracy": 0.96,
+        "precision": 0.8182,
+        "recall": 0.9,
+        "f1": 0.8571,
+        "roc_auc": 0.9892,
+        "confusion_matrix": [
+          [
+            63,
+            2
+          ],
+          [
+            1,
+            9
+          ]
+        ],
+        "support": {
+          "acceptable": 65,
+          "moisture_risk": 10
+        }
+      },
+      "external_stress_test_v2": {
+        "accuracy": 0.9467,
+        "precision": 0.9488,
+        "recall": 0.9761,
+        "f1": 0.9623,
+        "roc_auc": 0.9907,
+        "confusion_matrix": [
+          [
+            80,
+            11
+          ],
+          [
+            5,
+            204
+          ]
+        ],
+        "support": {
+          "acceptable": 91,
+          "moisture_risk": 209
+        }
+      }
+    }
+  },
+  "selected_model": "Random Forest",
+  "mlflow": {
+    "status": "registered",
+    "tracking_uri": "sqlite:///C:/Users/HEMANJANEYULU/Downloads/Manuscript_Moisture_MLOps_Project/manuscript_moisture_mlops/artifacts/mlflow.db",
+    "experiment_name": "manuscript-moisture-risk",
+    "run_id": "e1258b6cc4d8493c8a0f36212ae4a7e8",
+    "registered_model_name": "ManuscriptMoistureRiskModel"
+  }
+}

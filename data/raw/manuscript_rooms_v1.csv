@@ -1,0 +1,301 @@
+observation_id,dataset_version,room_id,observed_at,relative_humidity_pct,room_temperature_c,wall_surface_temperature_c,door_openings_per_hour,ventilation_duration_min_per_hour,dehumidifier_operating_hours_per_day,room_occupancy,moisture_risk_status
+V1-0001,Version 1 - Baseline,MSR-01,2026-01-01T00:00:00+00:00,67.05,19.21,14.97,4,40.75,13.26,1,Storage Conditions Acceptable
+V1-0002,Version 1 - Baseline,MSR-02,2026-01-01T04:00:00+00:00,75.27,22.53,18.13,2,26.27,10.98,1,Moisture Risk
+V1-0003,Version 1 - Baseline,MSR-03,2026-01-01T08:00:00+00:00,59.72,20.73,19.06,4,38.79,10.96,1,Storage Conditions Acceptable
+V1-0004,Version 1 - Baseline,MSR-04,2026-01-01T12:00:00+00:00,55.6,19.69,17.99,6,39.86,12.47,1,Storage Conditions Acceptable
+V1-0005,Version 1 - Baseline,MSR-05,2026-01-01T16:00:00+00:00,66.89,22.89,19.55,2,20.89,8.22,0,Storage Conditions Acceptable
+V1-0006,Version 1 - Baseline,MSR-06,2026-01-01T20:00:00+00:00,47.17,20.76,18.33,2,35.46,11.84,1,Storage Conditions Acceptable
+V1-0007,Version 1 - Baseline,MSR-01,2026-01-02T00:00:00+00:00,52.67,19.48,18.16,6,38.47,10.07,0,Storage Conditions Acceptable
+V1-0008,Version 1 - Baseline,MSR-02,2026-01-02T04:00:00+00:00,68.87,20.47,19.16,3,34.11,11.42,1,Storage Conditions Acceptable
+V1-0009,Version 1 - Baseline,MSR-03,2026-01-02T08:00:00+00:00,54.03,22.38,20.31,5,25.85,7.99,2,Storage Conditions Acceptable
+V1-0010,Version 1 - Baseline,MSR-04,2026-01-02T12:00:00+00:00,58.06,18.32,15.59,4,34.65,7.38,1,Storage Conditions Acceptable
+V1-0011,Version 1 - Baseline,MSR-05,2026-01-02T16:00:00+00:00,67.57,24.72,22.02,4,23.3,6.94,3,Storage Conditions Acceptable
+V1-0012,Version 1 - Baseline,MSR-06,2026-01-02T20:00:00+00:00,68.14,19.32,16.38,3,14.81,10.57,2,Storage Conditions Acceptable
+V1-0013,Version 1 - Baseline,MSR-01,2026-01-03T00:00:00+00:00,59.14,21.38,18.44,2,49.91,10.02,0,Storage Conditions Acceptable
+V1-0014,Version 1 - Baseline,MSR-02,2026-01-03T04:00:00+00:00,55.79,23.34,22.19,2,25.87,13.23,1,Storage Conditions Acceptable
+V1-0015,Version 1 - Baseline,MSR-03,2026-01-03T08:00:00+00:00,51.22,21.88,18.27,5,48.21,10.14,0,Storage Conditions Acceptable
+V1-0016,Version 1 - Baseline,MSR-04,2026-01-03T12:00:00+00:00,51.76,18.49,16.4,1,48.86,16.39,2,Storage Conditions Acceptable
+V1-0017,Version 1 - Baseline,MSR-05,2026-01-03T16:00:00+00:00,60.05,21.49,18.72,1,32.53,10.85,1,Storage Conditions Acceptable
+V1-0018,Version 1 - Baseline,MSR-06,2026-01-03T20:00:00+00:00,51.81,19.57,16.86,2,30.99,13.16,2,Storage Conditions Acceptable
+V1-0019,Version 1 - Baseline,MSR-01,2026-01-04T00:00:00+00:00,77.37,21.16,18.69,2,27.74,8.6,0,Moisture Risk
+V1-0020,Version 1 - Baseline,MSR-02,2026-01-04T04:00:00+00:00,82.0,19.62,15.72,1,31.41,3.65,0,Moisture Risk
+V1-0021,Version 1 - Baseline,MSR-03,2026-01-04T08:00:00+00:00,42.53,21.14,17.53,5,24.44,7.38,0,Storage Conditions Acceptable
+V1-0022,Version 1 - Baseline,MSR-04,2026-01-04T12:00:00+00:00,82.0,18.92,16.93,2,30.69,10.87,1,Moisture Risk
+V1-0023,Version 1 - Baseline,MSR-05,2026-01-04T16:00:00+00:00,50.25,20.98,18.86,1,31.6,10.43,1,Storage Conditions Acceptable
+V1-0024,Version 1 - Baseline,MSR-06,2026-01-04T20:00:00+00:00,64.0,19.91,18.56,3,36.85,9.11,1,Storage Conditions Acceptable
+V1-0025,Version 1 - Baseline,MSR-01,2026-01-05T00:00:00+00:00,66.63,22.56,18.55,6,18.3,13.21,1,Storage Conditions Acceptable
+V1-0026,Version 1 - Baseline,MSR-02,2026-01-05T04:00:00+00:00,61.63,21.89,19.56,3,36.66,8.01,1,Storage Conditions Acceptable
+V1-0027,Version 1 - Baseline,MSR-03,2026-01-05T08:00:00+00:00,60.66,24.36,20.79,6,39.24,16.43,0,Storage Conditions Acceptable
+V1-0028,Version 1 - Baseline,MSR-04,2026-01-05T12:00:00+00:00,71.82,21.08,16.77,3,44.54,12.5,4,Moisture Risk
+V1-0029,Version 1 - Baseline,MSR-05,2026-01-05T16:00:00+00:00,51.83,20.02,18.61,6,36.81,14.12,1,Storage Conditions Acceptable
+V1-0030,Version 1 - Baseline,MSR-06,2026-01-05T20:00:00+00:00,67.68,23.36,21.81,4,28.86,12.76,0,Storage Conditions Acceptable
+V1-0031,Version 1 - Baseline,MSR-01,2026-01-06T00:00:00+00:00,74.0,19.17,16.11,8,32.87,15.43,2,Moisture Risk
+V1-0032,Version 1 - Baseline,MSR-02,2026-01-06T04:00:00+00:00,65.08,24.38,20.45,5,19.58,4.49,2,Storage Conditions Acceptable
+V1-0033,Version 1 - Baseline,MSR-03,2026-01-06T08:00:00+00:00,65.38,23.17,18.99,1,36.06,11.62,1,Storage Conditions Acceptable
+V1-0034,Version 1 - Baseline,MSR-04,2026-01-06T12:00:00+00:00,61.34,21.24,19.54,3,41.47,1.53,5,Storage Conditions Acceptable
+V1-0035,Version 1 - Baseline,MSR-05,2026-01-06T16:00:00+00:00,64.92,19.66,16.5,2,28.65,3.58,2,Storage Conditions Acceptable
+V1-0036,Version 1 - Baseline,MSR-06,2026-01-06T20:00:00+00:00,62.69,17.47,13.16,5,42.35,7.08,0,Storage Conditions Acceptable
+V1-0037,Version 1 - Baseline,MSR-01,2026-01-07T00:00:00+00:00,49.23,23.85,22.38,2,31.02,13.96,1,Storage Conditions Acceptable
+V1-0038,Version 1 - Baseline,MSR-02,2026-01-07T04:00:00+00:00,74.76,19.64,18.51,2,37.0,9.4,1,Storage Conditions Acceptable
+V1-0039,Version 1 - Baseline,MSR-03,2026-01-07T08:00:00+00:00,82.0,23.93,21.67,5,25.34,10.89,1,Moisture Risk
+V1-0040,Version 1 - Baseline,MSR-04,2026-01-07T12:00:00+00:00,78.33,21.7,17.75,5,39.23,9.27,0,Moisture Risk
+V1-0041,Version 1 - Baseline,MSR-05,2026-01-07T16:00:00+00:00,61.14,22.5,20.96,1,31.22,13.24,2,Storage Conditions Acceptable
+V1-0042,Version 1 - Baseline,MSR-06,2026-01-07T20:00:00+00:00,48.97,15.0,13.27,5,29.11,19.18,0,Storage Conditions Acceptable
+V1-0043,Version 1 - Baseline,MSR-01,2026-01-08T00:00:00+00:00,70.68,19.99,16.34,4,42.08,16.02,1,Moisture Risk
+V1-0044,Version 1 - Baseline,MSR-02,2026-01-08T04:00:00+00:00,79.65,20.7,17.99,1,25.53,7.71,0,Moisture Risk
+V1-0045,Version 1 - Baseline,MSR-03,2026-01-08T08:00:00+00:00,40.06,19.77,17.58,4,18.82,6.2,1,Storage Conditions Acceptable
+V1-0046,Version 1 - Baseline,MSR-04,2026-01-08T12:00:00+00:00,69.57,22.15,20.53,6,52.32,9.15,2,Storage Conditions Acceptable
+V1-0047,Version 1 - Baseline,MSR-05,2026-01-08T16:00:00+00:00,71.39,21.15,17.69,2,28.12,11.69,0,Moisture Risk
+V1-0048,Version 1 - Baseline,MSR-06,2026-01-08T20:00:00+00:00,49.45,24.44,21.15,6,45.23,8.49,1,Storage Conditions Acceptable
+V1-0049,Version 1 - Baseline,MSR-01,2026-01-09T00:00:00+00:00,51.78,22.05,17.63,1,50.39,2.89,2,Storage Conditions Acceptable
+V1-0050,Version 1 - Baseline,MSR-02,2026-01-09T04:00:00+00:00,58.22,24.3,22.92,2,28.35,6.95,1,Storage Conditions Acceptable
+V1-0051,Version 1 - Baseline,MSR-03,2026-01-09T08:00:00+00:00,49.76,22.48,19.31,1,26.74,4.37,0,Storage Conditions Acceptable
+V1-0052,Version 1 - Baseline,MSR-04,2026-01-09T12:00:00+00:00,64.32,22.09,19.03,5,28.42,11.38,1,Storage Conditions Acceptable
+V1-0053,Version 1 - Baseline,MSR-05,2026-01-09T16:00:00+00:00,61.14,21.08,18.07,5,23.98,11.82,0,Storage Conditions Acceptable
+V1-0054,Version 1 - Baseline,MSR-06,2026-01-09T20:00:00+00:00,65.64,20.64,19.58,1,50.63,8.8,0,Storage Conditions Acceptable
+V1-0055,Version 1 - Baseline,MSR-01,2026-01-10T00:00:00+00:00,65.77,24.17,19.99,4,31.09,2.73,0,Storage Conditions Acceptable
+V1-0056,Version 1 - Baseline,MSR-02,2026-01-10T04:00:00+00:00,38.35,23.23,20.26,2,36.45,6.64,1,Storage Conditions Acceptable
+V1-0057,Version 1 - Baseline,MSR-03,2026-01-10T08:00:00+00:00,62.33,23.3,20.01,5,39.63,14.51,0,Storage Conditions Acceptable
+V1-0058,Version 1 - Baseline,MSR-04,2026-01-10T12:00:00+00:00,67.14,20.96,19.73,1,42.57,0.49,0,Storage Conditions Acceptable
+V1-0059,Version 1 - Baseline,MSR-05,2026-01-10T16:00:00+00:00,61.99,23.95,21.89,1,31.79,5.38,1,Storage Conditions Acceptable
+V1-0060,Version 1 - Baseline,MSR-06,2026-01-10T20:00:00+00:00,70.47,21.47,19.3,0,40.31,5.36,1,Storage Conditions Acceptable
+V1-0061,Version 1 - Baseline,MSR-01,2026-01-11T00:00:00+00:00,60.49,19.25,14.99,3,33.13,14.01,0,Storage Conditions Acceptable
+V1-0062,Version 1 - Baseline,MSR-02,2026-01-11T04:00:00+00:00,52.8,22.49,21.38,2,34.52,11.69,0,Storage Conditions Acceptable
+V1-0063,Version 1 - Baseline,MSR-03,2026-01-11T08:00:00+00:00,41.53,23.7,20.0,1,44.69,5.42,2,Storage Conditions Acceptable
+V1-0064,Version 1 - Baseline,MSR-04,2026-01-11T12:00:00+00:00,64.11,20.84,19.57,6,24.86,17.7,1,Storage Conditions Acceptable
+V1-0065,Version 1 - Baseline,MSR-05,2026-01-11T16:00:00+00:00,46.16,21.68,18.26,5,28.99,4.38,0,Storage Conditions Acceptable
+V1-0066,Version 1 - Baseline,MSR-06,2026-01-11T20:00:00+00:00,64.6,18.63,17.46,5,33.54,9.18,1,Storage Conditions Acceptable
+V1-0067,Version 1 - Baseline,MSR-01,2026-01-12T00:00:00+00:00,69.11,22.36,18.99,3,17.92,9.01,2,Storage Conditions Acceptable
+V1-0068,Version 1 - Baseline,MSR-02,2026-01-12T04:00:00+00:00,75.0,21.21,19.88,1,22.8,8.22,2,Storage Conditions Acceptable
+V1-0069,Version 1 - Baseline,MSR-03,2026-01-12T08:00:00+00:00,59.98,22.04,19.39,1,36.46,4.94,2,Storage Conditions Acceptable
+V1-0070,Version 1 - Baseline,MSR-04,2026-01-12T12:00:00+00:00,64.29,21.57,19.85,3,32.94,14.36,3,Storage Conditions Acceptable
+V1-0071,Version 1 - Baseline,MSR-05,2026-01-12T16:00:00+00:00,60.64,25.69,21.42,4,34.32,16.51,1,Storage Conditions Acceptable
+V1-0072,Version 1 - Baseline,MSR-06,2026-01-12T20:00:00+00:00,73.09,21.57,20.22,2,36.51,9.56,1,Storage Conditions Acceptable
+V1-0073,Version 1 - Baseline,MSR-01,2026-01-13T00:00:00+00:00,64.84,19.97,17.24,3,41.48,4.13,2,Storage Conditions Acceptable
+V1-0074,Version 1 - Baseline,MSR-02,2026-01-13T04:00:00+00:00,63.88,21.01,18.08,5,33.07,9.39,0,Storage Conditions Acceptable
+V1-0075,Version 1 - Baseline,MSR-03,2026-01-13T08:00:00+00:00,46.96,19.67,17.37,1,28.98,7.87,3,Storage Conditions Acceptable
+V1-0076,Version 1 - Baseline,MSR-04,2026-01-13T12:00:00+00:00,65.03,21.18,17.21,2,48.29,7.01,0,Storage Conditions Acceptable
+V1-0077,Version 1 - Baseline,MSR-05,2026-01-13T16:00:00+00:00,67.97,22.72,21.16,4,28.4,13.45,0,Storage Conditions Acceptable
+V1-0078,Version 1 - Baseline,MSR-06,2026-01-13T20:00:00+00:00,65.19,20.24,15.91,3,32.5,17.03,0,Storage Conditions Acceptable
+V1-0079,Version 1 - Baseline,MSR-01,2026-01-14T00:00:00+00:00,80.47,22.18,17.97,1,39.31,4.9,0,Moisture Risk
+V1-0080,Version 1 - Baseline,MSR-02,2026-01-14T04:00:00+00:00,68.91,24.14,22.97,5,36.6,8.08,1,Storage Conditions Acceptable
+V1-0081,Version 1 - Baseline,MSR-03,2026-01-14T08:00:00+00:00,59.16,26.43,25.22,4,33.98,11.13,1,Storage Conditions Acceptable
+V1-0082,Version 1 - Baseline,MSR-04,2026-01-14T12:00:00+00:00,64.35,20.88,19.26,5,33.04,10.39,2,Storage Conditions Acceptable
+V1-0083,Version 1 - Baseline,MSR-05,2026-01-14T16:00:00+00:00,67.74,22.89,19.92,6,21.36,10.82,1,Storage Conditions Acceptable
+V1-0084,Version 1 - Baseline,MSR-06,2026-01-14T20:00:00+00:00,65.21,21.79,18.45,3,41.41,9.26,0,Storage Conditions Acceptable
+V1-0085,Version 1 - Baseline,MSR-01,2026-01-15T00:00:00+00:00,71.56,22.33,20.85,4,22.89,15.27,0,Storage Conditions Acceptable
+V1-0086,Version 1 - Baseline,MSR-02,2026-01-15T04:00:00+00:00,67.4,22.2,21.11,5,37.69,11.96,2,Storage Conditions Acceptable
+V1-0087,Version 1 - Baseline,MSR-03,2026-01-15T08:00:00+00:00,63.99,23.67,19.48,5,28.98,12.72,0,Storage Conditions Acceptable
+V1-0088,Version 1 - Baseline,MSR-04,2026-01-15T12:00:00+00:00,54.44,22.46,20.56,3,22.82,8.68,1,Storage Conditions Acceptable
+V1-0089,Version 1 - Baseline,MSR-05,2026-01-15T16:00:00+00:00,62.46,24.7,20.76,1,29.89,14.03,1,Storage Conditions Acceptable
+V1-0090,Version 1 - Baseline,MSR-06,2026-01-15T20:00:00+00:00,62.03,19.05,14.78,1,31.94,3.13,1,Storage Conditions Acceptable
+V1-0091,Version 1 - Baseline,MSR-01,2026-01-16T00:00:00+00:00,66.44,21.17,18.41,4,37.89,9.75,1,Storage Conditions Acceptable
+V1-0092,Version 1 - Baseline,MSR-02,2026-01-16T04:00:00+00:00,65.8,20.06,16.3,5,45.04,15.82,1,Storage Conditions Acceptable
+V1-0093,Version 1 - Baseline,MSR-03,2026-01-16T08:00:00+00:00,56.05,24.37,21.5,5,41.56,15.45,0,Storage Conditions Acceptable
+V1-0094,Version 1 - Baseline,MSR-04,2026-01-16T12:00:00+00:00,68.5,21.51,19.99,0,27.25,8.56,2,Storage Conditions Acceptable
+V1-0095,Version 1 - Baseline,MSR-05,2026-01-16T16:00:00+00:00,55.06,20.92,19.15,4,27.83,15.03,2,Storage Conditions Acceptable
+V1-0096,Version 1 - Baseline,MSR-06,2026-01-16T20:00:00+00:00,64.15,23.02,20.64,4,38.26,7.96,1,Storage Conditions Acceptable
+V1-0097,Version 1 - Baseline,MSR-01,2026-01-17T00:00:00+00:00,78.73,16.11,14.93,5,21.24,4.75,1,Moisture Risk
+V1-0098,Version 1 - Baseline,MSR-02,2026-01-17T04:00:00+00:00,44.92,21.24,18.27,4,25.02,9.16,0,Storage Conditions Acceptable
+V1-0099,Version 1 - Baseline,MSR-03,2026-01-17T08:00:00+00:00,70.33,21.48,19.72,4,21.61,8.24,1,Storage Conditions Acceptable
+V1-0100,Version 1 - Baseline,MSR-04,2026-01-17T12:00:00+00:00,51.72,19.46,15.45,2,47.36,5.27,0,Storage Conditions Acceptable
+V1-0101,Version 1 - Baseline,MSR-05,2026-01-17T16:00:00+00:00,56.88,19.57,18.16,4,54.53,10.69,0,Storage Conditions Acceptable
+V1-0102,Version 1 - Baseline,MSR-06,2026-01-17T20:00:00+00:00,52.05,24.41,20.09,2,33.6,14.66,1,Storage Conditions Acceptable
+V1-0103,Version 1 - Baseline,MSR-01,2026-01-18T00:00:00+00:00,69.66,20.29,18.61,5,23.9,4.76,0,Storage Conditions Acceptable
+V1-0104,Version 1 - Baseline,MSR-02,2026-01-18T04:00:00+00:00,76.77,19.3,16.68,5,49.15,7.38,1,Moisture Risk
+V1-0105,Version 1 - Baseline,MSR-03,2026-01-18T08:00:00+00:00,56.75,20.12,18.37,1,40.97,9.35,1,Storage Conditions Acceptable
+V1-0106,Version 1 - Baseline,MSR-04,2026-01-18T12:00:00+00:00,63.5,21.25,20.23,2,26.48,12.15,3,Storage Conditions Acceptable
+V1-0107,Version 1 - Baseline,MSR-05,2026-01-18T16:00:00+00:00,80.2,22.3,18.22,3,32.04,14.27,1,Moisture Risk
+V1-0108,Version 1 - Baseline,MSR-06,2026-01-18T20:00:00+00:00,72.24,21.87,20.52,5,30.05,7.92,2,Storage Conditions Acceptable
+V1-0109,Version 1 - Baseline,MSR-01,2026-01-19T00:00:00+00:00,71.54,20.95,18.88,3,11.67,5.51,2,Storage Conditions Acceptable
+V1-0110,Version 1 - Baseline,MSR-02,2026-01-19T04:00:00+00:00,61.97,22.33,19.71,3,20.63,14.26,0,Storage Conditions Acceptable
+V1-0111,Version 1 - Baseline,MSR-03,2026-01-19T08:00:00+00:00,48.11,21.23,17.95,2,40.68,1.99,2,Storage Conditions Acceptable
+V1-0112,Version 1 - Baseline,MSR-04,2026-01-19T12:00:00+00:00,61.86,19.74,15.58,3,37.85,11.26,1,Storage Conditions Acceptable
+V1-0113,Version 1 - Baseline,MSR-05,2026-01-19T16:00:00+00:00,69.62,18.66,14.27,4,37.17,17.15,1,Moisture Risk
+V1-0114,Version 1 - Baseline,MSR-06,2026-01-19T20:00:00+00:00,60.2,22.33,18.18,7,23.86,14.81,1,Storage Conditions Acceptable
+V1-0115,Version 1 - Baseline,MSR-01,2026-01-20T00:00:00+00:00,76.26,15.19,11.46,2,31.14,8.84,0,Moisture Risk
+V1-0116,Version 1 - Baseline,MSR-02,2026-01-20T04:00:00+00:00,57.28,24.75,23.58,3,29.12,11.35,2,Storage Conditions Acceptable
+V1-0117,Version 1 - Baseline,MSR-03,2026-01-20T08:00:00+00:00,59.08,20.22,18.91,4,40.25,10.52,2,Storage Conditions Acceptable
+V1-0118,Version 1 - Baseline,MSR-04,2026-01-20T12:00:00+00:00,73.95,23.64,21.84,2,34.25,8.63,2,Storage Conditions Acceptable
+V1-0119,Version 1 - Baseline,MSR-05,2026-01-20T16:00:00+00:00,71.45,20.9,19.67,5,25.64,6.03,1,Storage Conditions Acceptable
+V1-0120,Version 1 - Baseline,MSR-06,2026-01-20T20:00:00+00:00,78.39,21.18,17.95,3,36.61,18.8,3,Moisture Risk
+V1-0121,Version 1 - Baseline,MSR-01,2026-01-21T00:00:00+00:00,64.91,25.43,21.82,6,37.22,13.35,0,Storage Conditions Acceptable
+V1-0122,Version 1 - Baseline,MSR-02,2026-01-21T04:00:00+00:00,75.25,21.47,19.78,1,13.66,8.74,1,Storage Conditions Acceptable
+V1-0123,Version 1 - Baseline,MSR-03,2026-01-21T08:00:00+00:00,69.63,21.75,19.8,2,36.97,12.61,0,Storage Conditions Acceptable
+V1-0124,Version 1 - Baseline,MSR-04,2026-01-21T12:00:00+00:00,63.77,20.13,17.49,6,24.35,8.09,1,Storage Conditions Acceptable
+V1-0125,Version 1 - Baseline,MSR-05,2026-01-21T16:00:00+00:00,42.93,21.41,17.73,2,51.98,10.03,1,Storage Conditions Acceptable
+V1-0126,Version 1 - Baseline,MSR-06,2026-01-21T20:00:00+00:00,77.12,20.81,18.14,5,16.59,4.43,0,Moisture Risk
+V1-0127,Version 1 - Baseline,MSR-01,2026-01-22T00:00:00+00:00,69.55,22.18,19.77,1,42.83,4.84,5,Storage Conditions Acceptable
+V1-0128,Version 1 - Baseline,MSR-02,2026-01-22T04:00:00+00:00,77.64,20.98,16.66,2,17.97,6.29,0,Moisture Risk
+V1-0129,Version 1 - Baseline,MSR-03,2026-01-22T08:00:00+00:00,50.24,20.12,18.15,3,27.44,12.59,2,Storage Conditions Acceptable
+V1-0130,Version 1 - Baseline,MSR-04,2026-01-22T12:00:00+00:00,65.62,23.11,20.11,4,19.72,9.6,0,Storage Conditions Acceptable
+V1-0131,Version 1 - Baseline,MSR-05,2026-01-22T16:00:00+00:00,67.46,24.12,22.46,1,32.62,11.7,1,Storage Conditions Acceptable
+V1-0132,Version 1 - Baseline,MSR-06,2026-01-22T20:00:00+00:00,59.44,18.45,15.81,5,21.31,8.8,2,Storage Conditions Acceptable
+V1-0133,Version 1 - Baseline,MSR-01,2026-01-23T00:00:00+00:00,60.88,24.49,20.18,4,38.57,10.28,0,Storage Conditions Acceptable
+V1-0134,Version 1 - Baseline,MSR-02,2026-01-23T04:00:00+00:00,82.0,17.59,16.41,3,36.92,6.46,3,Moisture Risk
+V1-0135,Version 1 - Baseline,MSR-03,2026-01-23T08:00:00+00:00,51.8,19.67,17.84,9,35.31,9.43,0,Storage Conditions Acceptable
+V1-0136,Version 1 - Baseline,MSR-04,2026-01-23T12:00:00+00:00,62.81,24.07,20.84,5,32.39,6.72,5,Storage Conditions Acceptable
+V1-0137,Version 1 - Baseline,MSR-05,2026-01-23T16:00:00+00:00,75.91,19.97,16.85,5,36.02,9.51,1,Moisture Risk
+V1-0138,Version 1 - Baseline,MSR-06,2026-01-23T20:00:00+00:00,56.74,20.88,19.77,2,20.49,5.4,1,Storage Conditions Acceptable
+V1-0139,Version 1 - Baseline,MSR-01,2026-01-24T00:00:00+00:00,72.73,20.32,19.23,5,19.85,3.97,0,Storage Conditions Acceptable
+V1-0140,Version 1 - Baseline,MSR-02,2026-01-24T04:00:00+00:00,59.07,21.81,18.79,3,13.07,10.45,2,Storage Conditions Acceptable
+V1-0141,Version 1 - Baseline,MSR-03,2026-01-24T08:00:00+00:00,53.87,21.78,20.36,1,28.75,7.39,0,Storage Conditions Acceptable
+V1-0142,Version 1 - Baseline,MSR-04,2026-01-24T12:00:00+00:00,82.0,23.98,22.39,7,34.88,5.74,1,Moisture Risk
+V1-0143,Version 1 - Baseline,MSR-05,2026-01-24T16:00:00+00:00,65.11,20.65,18.89,3,47.3,11.53,1,Storage Conditions Acceptable
+V1-0144,Version 1 - Baseline,MSR-06,2026-01-24T20:00:00+00:00,57.81,20.06,18.8,4,28.91,13.9,2,Storage Conditions Acceptable
+V1-0145,Version 1 - Baseline,MSR-01,2026-01-25T00:00:00+00:00,62.56,18.82,14.58,5,41.58,5.83,1,Storage Conditions Acceptable
+V1-0146,Version 1 - Baseline,MSR-02,2026-01-25T04:00:00+00:00,66.11,19.03,17.27,6,47.16,12.74,0,Storage Conditions Acceptable
+V1-0147,Version 1 - Baseline,MSR-03,2026-01-25T08:00:00+00:00,63.92,22.1,17.81,0,31.29,2.09,1,Storage Conditions Acceptable
+V1-0148,Version 1 - Baseline,MSR-04,2026-01-25T12:00:00+00:00,63.6,22.47,20.6,7,31.26,7.86,0,Storage Conditions Acceptable
+V1-0149,Version 1 - Baseline,MSR-05,2026-01-25T16:00:00+00:00,59.38,22.96,21.02,6,42.39,11.44,4,Storage Conditions Acceptable
+V1-0150,Version 1 - Baseline,MSR-06,2026-01-25T20:00:00+00:00,68.15,22.77,21.11,3,34.79,10.38,0,Storage Conditions Acceptable
+V1-0151,Version 1 - Baseline,MSR-01,2026-01-26T00:00:00+00:00,50.9,17.02,15.4,0,34.29,5.03,0,Storage Conditions Acceptable
+V1-0152,Version 1 - Baseline,MSR-02,2026-01-26T04:00:00+00:00,61.01,22.98,19.86,0,38.28,6.73,1,Storage Conditions Acceptable
+V1-0153,Version 1 - Baseline,MSR-03,2026-01-26T08:00:00+00:00,53.15,24.61,20.44,0,43.22,10.66,0,Storage Conditions Acceptable
+V1-0154,Version 1 - Baseline,MSR-04,2026-01-26T12:00:00+00:00,66.36,23.42,22.26,4,28.94,7.04,1,Storage Conditions Acceptable
+V1-0155,Version 1 - Baseline,MSR-05,2026-01-26T16:00:00+00:00,59.43,21.72,19.86,4,15.93,10.57,1,Storage Conditions Acceptable
+V1-0156,Version 1 - Baseline,MSR-06,2026-01-26T20:00:00+00:00,58.18,18.09,14.42,4,38.08,7.7,2,Storage Conditions Acceptable
+V1-0157,Version 1 - Baseline,MSR-01,2026-01-27T00:00:00+00:00,68.35,19.78,16.23,5,38.59,11.71,1,Storage Conditions Acceptable
+V1-0158,Version 1 - Baseline,MSR-02,2026-01-27T04:00:00+00:00,75.29,21.38,19.63,3,23.27,7.17,2,Storage Conditions Acceptable
+V1-0159,Version 1 - Baseline,MSR-03,2026-01-27T08:00:00+00:00,63.67,18.94,15.58,4,27.9,6.29,0,Storage Conditions Acceptable
+V1-0160,Version 1 - Baseline,MSR-04,2026-01-27T12:00:00+00:00,55.29,25.9,21.8,6,34.51,10.48,0,Storage Conditions Acceptable
+V1-0161,Version 1 - Baseline,MSR-05,2026-01-27T16:00:00+00:00,61.29,20.98,18.15,1,27.39,11.44,1,Storage Conditions Acceptable
+V1-0162,Version 1 - Baseline,MSR-06,2026-01-27T20:00:00+00:00,65.05,25.23,22.63,1,21.94,12.58,0,Storage Conditions Acceptable
+V1-0163,Version 1 - Baseline,MSR-01,2026-01-28T00:00:00+00:00,58.4,21.57,19.09,0,31.73,6.36,1,Storage Conditions Acceptable
+V1-0164,Version 1 - Baseline,MSR-02,2026-01-28T04:00:00+00:00,67.91,22.7,21.19,6,36.08,13.36,1,Storage Conditions Acceptable
+V1-0165,Version 1 - Baseline,MSR-03,2026-01-28T08:00:00+00:00,75.23,21.29,16.98,4,24.0,14.26,0,Moisture Risk
+V1-0166,Version 1 - Baseline,MSR-04,2026-01-28T12:00:00+00:00,63.72,20.05,16.05,5,39.24,11.41,0,Storage Conditions Acceptable
+V1-0167,Version 1 - Baseline,MSR-05,2026-01-28T16:00:00+00:00,59.22,24.38,21.0,0,29.56,12.14,1,Storage Conditions Acceptable
+V1-0168,Version 1 - Baseline,MSR-06,2026-01-28T20:00:00+00:00,54.06,22.15,21.01,5,42.3,12.14,1,Storage Conditions Acceptable
+V1-0169,Version 1 - Baseline,MSR-01,2026-01-29T00:00:00+00:00,75.59,27.79,26.16,6,37.3,11.83,1,Storage Conditions Acceptable
+V1-0170,Version 1 - Baseline,MSR-02,2026-01-29T04:00:00+00:00,63.68,22.67,21.55,1,32.24,8.13,0,Storage Conditions Acceptable
+V1-0171,Version 1 - Baseline,MSR-03,2026-01-29T08:00:00+00:00,51.14,21.42,19.72,1,34.48,0.88,0,Storage Conditions Acceptable
+V1-0172,Version 1 - Baseline,MSR-04,2026-01-29T12:00:00+00:00,74.22,23.21,18.96,7,33.14,7.63,0,Storage Conditions Acceptable
+V1-0173,Version 1 - Baseline,MSR-05,2026-01-29T16:00:00+00:00,79.43,22.06,20.72,0,18.57,6.64,3,Storage Conditions Acceptable
+V1-0174,Version 1 - Baseline,MSR-06,2026-01-29T20:00:00+00:00,67.9,22.59,19.83,3,42.2,10.29,2,Storage Conditions Acceptable
+V1-0175,Version 1 - Baseline,MSR-01,2026-01-30T00:00:00+00:00,64.68,21.44,18.6,5,35.74,18.33,2,Storage Conditions Acceptable
+V1-0176,Version 1 - Baseline,MSR-02,2026-01-30T04:00:00+00:00,67.19,24.27,21.48,3,33.15,8.17,2,Storage Conditions Acceptable
+V1-0177,Version 1 - Baseline,MSR-03,2026-01-30T08:00:00+00:00,71.31,19.64,18.09,2,24.32,10.4,1,Storage Conditions Acceptable
+V1-0178,Version 1 - Baseline,MSR-04,2026-01-30T12:00:00+00:00,77.01,22.89,20.44,3,39.44,14.49,1,Storage Conditions Acceptable
+V1-0179,Version 1 - Baseline,MSR-05,2026-01-30T16:00:00+00:00,67.35,21.61,18.32,0,38.33,11.53,1,Storage Conditions Acceptable
+V1-0180,Version 1 - Baseline,MSR-06,2026-01-30T20:00:00+00:00,53.98,17.67,15.38,3,34.16,9.01,0,Storage Conditions Acceptable
+V1-0181,Version 1 - Baseline,MSR-01,2026-01-31T00:00:00+00:00,65.73,17.42,13.23,4,32.38,9.56,2,Storage Conditions Acceptable
+V1-0182,Version 1 - Baseline,MSR-02,2026-01-31T04:00:00+00:00,70.11,20.54,16.91,2,41.11,13.42,0,Storage Conditions Acceptable
+V1-0183,Version 1 - Baseline,MSR-03,2026-01-31T08:00:00+00:00,57.51,18.23,14.22,3,34.83,6.43,1,Storage Conditions Acceptable
+V1-0184,Version 1 - Baseline,MSR-04,2026-01-31T12:00:00+00:00,68.85,19.13,17.11,1,22.42,15.83,2,Storage Conditions Acceptable
+V1-0185,Version 1 - Baseline,MSR-05,2026-01-31T16:00:00+00:00,55.94,18.43,17.42,0,42.48,11.47,1,Storage Conditions Acceptable
+V1-0186,Version 1 - Baseline,MSR-06,2026-01-31T20:00:00+00:00,53.63,21.31,18.97,3,40.08,0.0,3,Storage Conditions Acceptable
+V1-0187,Version 1 - Baseline,MSR-01,2026-02-01T00:00:00+00:00,68.78,23.24,20.83,2,39.48,8.64,0,Storage Conditions Acceptable
+V1-0188,Version 1 - Baseline,MSR-02,2026-02-01T04:00:00+00:00,65.27,15.0,10.96,5,22.5,17.04,1,Storage Conditions Acceptable
+V1-0189,Version 1 - Baseline,MSR-03,2026-02-01T08:00:00+00:00,73.71,18.02,16.94,3,38.02,14.07,2,Storage Conditions Acceptable
+V1-0190,Version 1 - Baseline,MSR-04,2026-02-01T12:00:00+00:00,55.1,15.42,12.75,4,30.09,10.98,1,Storage Conditions Acceptable
+V1-0191,Version 1 - Baseline,MSR-05,2026-02-01T16:00:00+00:00,68.96,22.31,20.43,3,31.41,11.12,0,Storage Conditions Acceptable
+V1-0192,Version 1 - Baseline,MSR-06,2026-02-01T20:00:00+00:00,69.17,16.62,15.45,3,47.23,10.18,0,Storage Conditions Acceptable
+V1-0193,Version 1 - Baseline,MSR-01,2026-02-02T00:00:00+00:00,82.0,23.34,21.67,3,43.45,12.88,2,Moisture Risk
+V1-0194,Version 1 - Baseline,MSR-02,2026-02-02T04:00:00+00:00,71.49,22.93,18.67,4,39.59,9.35,0,Moisture Risk
+V1-0195,Version 1 - Baseline,MSR-03,2026-02-02T08:00:00+00:00,54.02,20.73,16.46,1,38.32,19.63,1,Storage Conditions Acceptable
+V1-0196,Version 1 - Baseline,MSR-04,2026-02-02T12:00:00+00:00,61.62,21.25,18.2,2,48.34,8.08,3,Storage Conditions Acceptable
+V1-0197,Version 1 - Baseline,MSR-05,2026-02-02T16:00:00+00:00,70.84,20.15,17.15,4,19.52,12.17,1,Storage Conditions Acceptable
+V1-0198,Version 1 - Baseline,MSR-06,2026-02-02T20:00:00+00:00,62.17,20.08,17.24,6,39.3,7.72,0,Storage Conditions Acceptable
+V1-0199,Version 1 - Baseline,MSR-01,2026-02-03T00:00:00+00:00,58.64,19.52,17.23,5,48.18,2.69,2,Storage Conditions Acceptable
+V1-0200,Version 1 - Baseline,MSR-02,2026-02-03T04:00:00+00:00,65.01,23.99,21.65,2,52.96,7.19,1,Storage Conditions Acceptable
+V1-0201,Version 1 - Baseline,MSR-03,2026-02-03T08:00:00+00:00,54.42,19.34,15.95,6,36.49,13.48,0,Storage Conditions Acceptable
+V1-0202,Version 1 - Baseline,MSR-04,2026-02-03T12:00:00+00:00,72.19,20.32,18.51,5,30.37,11.66,0,Storage Conditions Acceptable
+V1-0203,Version 1 - Baseline,MSR-05,2026-02-03T16:00:00+00:00,62.45,18.88,14.69,2,27.68,6.4,2,Storage Conditions Acceptable
+V1-0204,Version 1 - Baseline,MSR-06,2026-02-03T20:00:00+00:00,54.92,21.58,20.54,1,15.72,10.35,3,Storage Conditions Acceptable
+V1-0205,Version 1 - Baseline,MSR-01,2026-02-04T00:00:00+00:00,65.07,23.37,20.11,3,46.4,9.49,1,Storage Conditions Acceptable
+V1-0206,Version 1 - Baseline,MSR-02,2026-02-04T04:00:00+00:00,58.52,24.21,21.4,1,38.98,10.5,2,Storage Conditions Acceptable
+V1-0207,Version 1 - Baseline,MSR-03,2026-02-04T08:00:00+00:00,60.93,20.18,17.01,1,49.36,10.36,3,Storage Conditions Acceptable
+V1-0208,Version 1 - Baseline,MSR-04,2026-02-04T12:00:00+00:00,81.82,21.03,19.45,1,17.8,17.07,1,Moisture Risk
+V1-0209,Version 1 - Baseline,MSR-05,2026-02-04T16:00:00+00:00,69.42,22.04,19.61,1,35.31,8.8,1,Storage Conditions Acceptable
+V1-0210,Version 1 - Baseline,MSR-06,2026-02-04T20:00:00+00:00,68.8,22.4,19.25,1,31.12,12.65,0,Storage Conditions Acceptable
+V1-0211,Version 1 - Baseline,MSR-01,2026-02-05T00:00:00+00:00,69.0,17.81,13.54,4,33.03,7.77,5,Moisture Risk
+V1-0212,Version 1 - Baseline,MSR-02,2026-02-05T04:00:00+00:00,66.01,22.47,19.64,1,17.71,11.38,2,Storage Conditions Acceptable
+V1-0213,Version 1 - Baseline,MSR-03,2026-02-05T08:00:00+00:00,54.36,24.29,20.44,7,46.35,5.54,3,Storage Conditions Acceptable
+V1-0214,Version 1 - Baseline,MSR-04,2026-02-05T12:00:00+00:00,55.77,24.22,22.36,1,36.58,1.84,2,Storage Conditions Acceptable
+V1-0215,Version 1 - Baseline,MSR-05,2026-02-05T16:00:00+00:00,54.07,21.07,18.42,4,41.44,4.18,1,Storage Conditions Acceptable
+V1-0216,Version 1 - Baseline,MSR-06,2026-02-05T20:00:00+00:00,80.57,19.99,16.64,2,27.85,15.65,1,Moisture Risk
+V1-0217,Version 1 - Baseline,MSR-01,2026-02-06T00:00:00+00:00,64.9,19.33,16.47,4,33.5,9.52,2,Storage Conditions Acceptable
+V1-0218,Version 1 - Baseline,MSR-02,2026-02-06T04:00:00+00:00,54.31,19.39,17.52,1,47.02,8.87,2,Storage Conditions Acceptable
+V1-0219,Version 1 - Baseline,MSR-03,2026-02-06T08:00:00+00:00,76.87,19.68,15.85,0,33.81,7.16,1,Moisture Risk
+V1-0220,Version 1 - Baseline,MSR-04,2026-02-06T12:00:00+00:00,57.0,20.74,17.79,3,21.14,7.81,0,Storage Conditions Acceptable
+V1-0221,Version 1 - Baseline,MSR-05,2026-02-06T16:00:00+00:00,59.36,22.57,18.89,2,31.84,10.96,1,Storage Conditions Acceptable
+V1-0222,Version 1 - Baseline,MSR-06,2026-02-06T20:00:00+00:00,57.1,18.23,14.7,0,35.27,2.47,0,Storage Conditions Acceptable
+V1-0223,Version 1 - Baseline,MSR-01,2026-02-07T00:00:00+00:00,53.68,21.36,20.11,5,30.71,15.1,0,Storage Conditions Acceptable
+V1-0224,Version 1 - Baseline,MSR-02,2026-02-07T04:00:00+00:00,66.11,21.11,17.84,3,37.6,0.0,1,Storage Conditions Acceptable
+V1-0225,Version 1 - Baseline,MSR-03,2026-02-07T08:00:00+00:00,65.15,21.86,17.93,3,43.35,5.16,3,Storage Conditions Acceptable
+V1-0226,Version 1 - Baseline,MSR-04,2026-02-07T12:00:00+00:00,52.3,18.64,16.78,6,49.55,7.65,1,Storage Conditions Acceptable
+V1-0227,Version 1 - Baseline,MSR-05,2026-02-07T16:00:00+00:00,75.6,23.8,20.85,2,29.77,8.83,0,Moisture Risk
+V1-0228,Version 1 - Baseline,MSR-06,2026-02-07T20:00:00+00:00,74.79,18.87,17.1,1,39.75,10.83,3,Storage Conditions Acceptable
+V1-0229,Version 1 - Baseline,MSR-01,2026-02-08T00:00:00+00:00,45.79,25.36,21.6,5,41.43,12.58,0,Storage Conditions Acceptable
+V1-0230,Version 1 - Baseline,MSR-02,2026-02-08T04:00:00+00:00,53.89,24.81,22.48,1,28.05,11.5,1,Storage Conditions Acceptable
+V1-0231,Version 1 - Baseline,MSR-03,2026-02-08T08:00:00+00:00,59.51,24.76,23.39,4,33.02,6.36,1,Storage Conditions Acceptable
+V1-0232,Version 1 - Baseline,MSR-04,2026-02-08T12:00:00+00:00,73.7,23.42,22.35,0,25.16,6.08,1,Storage Conditions Acceptable
+V1-0233,Version 1 - Baseline,MSR-05,2026-02-08T16:00:00+00:00,57.66,20.7,19.37,0,30.22,7.36,0,Storage Conditions Acceptable
+V1-0234,Version 1 - Baseline,MSR-06,2026-02-08T20:00:00+00:00,71.53,23.35,18.92,2,20.13,10.7,0,Moisture Risk
+V1-0235,Version 1 - Baseline,MSR-01,2026-02-09T00:00:00+00:00,47.36,26.99,22.5,3,25.76,13.42,1,Storage Conditions Acceptable
+V1-0236,Version 1 - Baseline,MSR-02,2026-02-09T04:00:00+00:00,62.32,23.91,22.37,3,39.22,12.43,1,Storage Conditions Acceptable
+V1-0237,Version 1 - Baseline,MSR-03,2026-02-09T08:00:00+00:00,77.68,22.04,18.68,0,26.6,15.8,0,Storage Conditions Acceptable
+V1-0238,Version 1 - Baseline,MSR-04,2026-02-09T12:00:00+00:00,49.31,22.89,21.59,5,26.95,20.0,1,Storage Conditions Acceptable
+V1-0239,Version 1 - Baseline,MSR-05,2026-02-09T16:00:00+00:00,65.17,16.57,12.77,2,22.1,7.35,0,Storage Conditions Acceptable
+V1-0240,Version 1 - Baseline,MSR-06,2026-02-09T20:00:00+00:00,63.98,22.17,20.3,3,38.6,10.07,0,Storage Conditions Acceptable
+V1-0241,Version 1 - Baseline,MSR-01,2026-02-10T00:00:00+00:00,57.37,20.04,17.4,3,23.11,13.42,1,Storage Conditions Acceptable
+V1-0242,Version 1 - Baseline,MSR-02,2026-02-10T04:00:00+00:00,64.41,24.01,22.17,6,34.18,4.7,1,Storage Conditions Acceptable
+V1-0243,Version 1 - Baseline,MSR-03,2026-02-10T08:00:00+00:00,56.78,21.99,17.57,4,22.54,6.92,1,Storage Conditions Acceptable
+V1-0244,Version 1 - Baseline,MSR-04,2026-02-10T12:00:00+00:00,74.56,19.84,18.56,2,9.34,2.43,0,Moisture Risk
+V1-0245,Version 1 - Baseline,MSR-05,2026-02-10T16:00:00+00:00,61.07,21.21,19.39,3,36.04,15.9,0,Storage Conditions Acceptable
+V1-0246,Version 1 - Baseline,MSR-06,2026-02-10T20:00:00+00:00,38.84,16.82,13.05,1,24.84,11.62,2,Storage Conditions Acceptable
+V1-0247,Version 1 - Baseline,MSR-01,2026-02-11T00:00:00+00:00,64.28,17.98,14.76,1,46.69,6.77,0,Storage Conditions Acceptable
+V1-0248,Version 1 - Baseline,MSR-02,2026-02-11T04:00:00+00:00,58.16,21.76,19.03,4,36.86,6.36,2,Storage Conditions Acceptable
+V1-0249,Version 1 - Baseline,MSR-03,2026-02-11T08:00:00+00:00,66.11,24.99,23.35,3,36.0,15.03,1,Storage Conditions Acceptable
+V1-0250,Version 1 - Baseline,MSR-04,2026-02-11T12:00:00+00:00,72.19,20.76,19.37,6,45.24,12.25,0,Storage Conditions Acceptable
+V1-0251,Version 1 - Baseline,MSR-05,2026-02-11T16:00:00+00:00,59.79,21.76,19.4,8,42.89,7.23,0,Storage Conditions Acceptable
+V1-0252,Version 1 - Baseline,MSR-06,2026-02-11T20:00:00+00:00,71.36,18.51,16.62,4,26.43,10.59,1,Storage Conditions Acceptable
+V1-0253,Version 1 - Baseline,MSR-01,2026-02-12T00:00:00+00:00,63.28,24.27,22.11,3,32.93,5.94,0,Storage Conditions Acceptable
+V1-0254,Version 1 - Baseline,MSR-02,2026-02-12T04:00:00+00:00,73.96,19.44,15.92,4,25.87,9.2,0,Moisture Risk
+V1-0255,Version 1 - Baseline,MSR-03,2026-02-12T08:00:00+00:00,82.0,21.88,17.87,3,31.39,9.52,3,Moisture Risk
+V1-0256,Version 1 - Baseline,MSR-04,2026-02-12T12:00:00+00:00,63.91,17.7,13.5,2,22.67,13.69,0,Storage Conditions Acceptable
+V1-0257,Version 1 - Baseline,MSR-05,2026-02-12T16:00:00+00:00,52.38,19.51,18.24,2,35.39,13.38,0,Storage Conditions Acceptable
+V1-0258,Version 1 - Baseline,MSR-06,2026-02-12T20:00:00+00:00,77.28,20.06,19.04,1,52.12,11.87,1,Storage Conditions Acceptable
+V1-0259,Version 1 - Baseline,MSR-01,2026-02-13T00:00:00+00:00,71.58,21.79,19.78,1,22.36,6.25,2,Storage Conditions Acceptable
+V1-0260,Version 1 - Baseline,MSR-02,2026-02-13T04:00:00+00:00,62.47,19.69,15.43,2,22.76,10.83,0,Storage Conditions Acceptable
+V1-0261,Version 1 - Baseline,MSR-03,2026-02-13T08:00:00+00:00,68.13,19.9,18.52,1,37.33,12.17,0,Storage Conditions Acceptable
+V1-0262,Version 1 - Baseline,MSR-04,2026-02-13T12:00:00+00:00,76.66,23.84,21.86,2,38.84,17.39,0,Storage Conditions Acceptable
+V1-0263,Version 1 - Baseline,MSR-05,2026-02-13T16:00:00+00:00,67.72,23.34,20.8,3,32.97,16.61,1,Storage Conditions Acceptable
+V1-0264,Version 1 - Baseline,MSR-06,2026-02-13T20:00:00+00:00,61.37,18.29,16.89,3,27.72,9.29,3,Storage Conditions Acceptable
+V1-0265,Version 1 - Baseline,MSR-01,2026-02-14T00:00:00+00:00,70.89,23.65,21.57,4,34.35,12.61,1,Storage Conditions Acceptable
+V1-0266,Version 1 - Baseline,MSR-02,2026-02-14T04:00:00+00:00,70.9,18.49,14.82,2,25.17,6.61,0,Moisture Risk
+V1-0267,Version 1 - Baseline,MSR-03,2026-02-14T08:00:00+00:00,62.84,23.83,20.5,5,22.28,8.67,0,Storage Conditions Acceptable
+V1-0268,Version 1 - Baseline,MSR-04,2026-02-14T12:00:00+00:00,67.2,23.75,20.22,2,29.06,9.66,1,Storage Conditions Acceptable
+V1-0269,Version 1 - Baseline,MSR-05,2026-02-14T16:00:00+00:00,82.0,23.7,21.81,2,46.84,9.84,1,Moisture Risk
+V1-0270,Version 1 - Baseline,MSR-06,2026-02-14T20:00:00+00:00,49.47,20.51,19.21,5,47.59,5.2,1,Storage Conditions Acceptable
+V1-0271,Version 1 - Baseline,MSR-01,2026-02-15T00:00:00+00:00,66.58,22.57,21.48,5,37.03,6.12,1,Storage Conditions Acceptable
+V1-0272,Version 1 - Baseline,MSR-02,2026-02-15T04:00:00+00:00,80.44,19.57,16.81,4,30.96,9.93,0,Moisture Risk
+V1-0273,Version 1 - Baseline,MSR-03,2026-02-15T08:00:00+00:00,55.82,23.88,22.74,0,31.06,8.79,0,Storage Conditions Acceptable
+V1-0274,Version 1 - Baseline,MSR-04,2026-02-15T12:00:00+00:00,42.9,19.81,17.66,4,30.4,16.47,1,Storage Conditions Acceptable
+V1-0275,Version 1 - Baseline,MSR-05,2026-02-15T16:00:00+00:00,61.83,22.11,19.33,0,29.55,11.72,1,Storage Conditions Acceptable
+V1-0276,Version 1 - Baseline,MSR-06,2026-02-15T20:00:00+00:00,65.52,22.71,20.77,4,52.56,13.26,3,Storage Conditions Acceptable
+V1-0277,Version 1 - Baseline,MSR-01,2026-02-16T00:00:00+00:00,74.87,23.4,19.48,2,32.54,6.82,2,Moisture Risk
+V1-0278,Version 1 - Baseline,MSR-02,2026-02-16T04:00:00+00:00,69.85,21.64,18.85,2,27.94,8.45,1,Storage Conditions Acceptable
+V1-0279,Version 1 - Baseline,MSR-03,2026-02-16T08:00:00+00:00,68.88,19.13,17.59,3,19.35,8.11,1,Storage Conditions Acceptable
+V1-0280,Version 1 - Baseline,MSR-04,2026-02-16T12:00:00+00:00,54.83,21.64,19.51,4,37.78,12.8,1,Storage Conditions Acceptable
+V1-0281,Version 1 - Baseline,MSR-05,2026-02-16T16:00:00+00:00,41.41,21.97,20.97,5,25.65,11.44,2,Storage Conditions Acceptable
+V1-0282,Version 1 - Baseline,MSR-06,2026-02-16T20:00:00+00:00,70.25,20.89,19.86,0,25.31,8.39,2,Storage Conditions Acceptable
+V1-0283,Version 1 - Baseline,MSR-01,2026-02-17T00:00:00+00:00,63.77,20.4,17.89,4,20.06,7.46,1,Storage Conditions Acceptable
+V1-0284,Version 1 - Baseline,MSR-02,2026-02-17T04:00:00+00:00,59.06,22.38,21.37,7,41.42,6.65,1,Storage Conditions Acceptable
+V1-0285,Version 1 - Baseline,MSR-03,2026-02-17T08:00:00+00:00,43.78,21.78,19.05,5,30.78,5.08,2,Storage Conditions Acceptable
+V1-0286,Version 1 - Baseline,MSR-04,2026-02-17T12:00:00+00:00,67.81,22.66,20.32,6,50.89,12.67,3,Storage Conditions Acceptable
+V1-0287,Version 1 - Baseline,MSR-05,2026-02-17T16:00:00+00:00,60.27,23.93,21.28,1,31.04,7.81,0,Storage Conditions Acceptable
+V1-0288,Version 1 - Baseline,MSR-06,2026-02-17T20:00:00+00:00,82.0,23.09,20.93,3,47.16,6.12,1,Moisture Risk
+V1-0289,Version 1 - Baseline,MSR-01,2026-02-18T00:00:00+00:00,68.91,26.04,23.24,4,46.26,1.92,3,Storage Conditions Acceptable
+V1-0290,Version 1 - Baseline,MSR-02,2026-02-18T04:00:00+00:00,64.18,20.4,17.84,6,42.0,13.4,0,Storage Conditions Acceptable
+V1-0291,Version 1 - Baseline,MSR-03,2026-02-18T08:00:00+00:00,66.41,24.67,21.98,3,33.62,13.51,3,Storage Conditions Acceptable
+V1-0292,Version 1 - Baseline,MSR-04,2026-02-18T12:00:00+00:00,68.48,22.7,20.7,1,24.67,11.54,4,Storage Conditions Acceptable
+V1-0293,Version 1 - Baseline,MSR-05,2026-02-18T16:00:00+00:00,64.13,22.95,21.15,1,27.45,9.66,0,Storage Conditions Acceptable
+V1-0294,Version 1 - Baseline,MSR-06,2026-02-18T20:00:00+00:00,50.76,18.11,13.74,2,32.99,15.74,0,Storage Conditions Acceptable
+V1-0295,Version 1 - Baseline,MSR-01,2026-02-19T00:00:00+00:00,60.65,23.4,19.02,4,26.67,10.21,0,Storage Conditions Acceptable
+V1-0296,Version 1 - Baseline,MSR-02,2026-02-19T04:00:00+00:00,69.68,19.87,16.01,3,23.34,13.64,0,Storage Conditions Acceptable
+V1-0297,Version 1 - Baseline,MSR-03,2026-02-19T08:00:00+00:00,71.18,21.75,20.04,3,22.7,8.82,0,Storage Conditions Acceptable
+V1-0298,Version 1 - Baseline,MSR-04,2026-02-19T12:00:00+00:00,71.85,22.3,20.85,4,33.35,7.07,1,Storage Conditions Acceptable
+V1-0299,Version 1 - Baseline,MSR-05,2026-02-19T16:00:00+00:00,67.09,25.97,22.39,5,24.79,10.31,0,Storage Conditions Acceptable
+V1-0300,Version 1 - Baseline,MSR-06,2026-02-19T20:00:00+00:00,58.29,17.6,14.7,4,46.56,13.37,1,Storage Conditions Acceptable

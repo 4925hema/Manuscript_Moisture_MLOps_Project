@@ -1,0 +1,32 @@
+{
+  "model_name": "ManuscriptMoistureRiskModel",
+  "model_family": "Random Forest",
+  "model_version": "1",
+  "threshold": 0.35,
+  "feature_columns": [
+    "relative_humidity_pct",
+    "room_temperature_c",
+    "wall_surface_temperature_c",
+    "door_openings_per_hour",
+    "ventilation_duration_min_per_hour",
+    "dehumidifier_operating_hours_per_day",
+    "room_occupancy",
+    "dew_point_c",
+    "dew_point_margin_c",
+    "condensation_risk_index",
+    "ventilation_effectiveness_ratio"
+  ],
+  "target_map": {
+    "Storage Conditions Acceptable": 0,
+    "Moisture Risk": 1
+  },
+  "artifact_path": "C:\\Users\\HEMANJANEYULU\\Downloads\\Manuscript_Moisture_MLOps_Project\\manuscript_moisture_mlops\\artifacts\\best_model.joblib",
+  "mlflow_status": {
+    "status": "registered",
+    "tracking_uri": "sqlite:///C:/Users/HEMANJANEYULU/Downloads/Manuscript_Moisture_MLOps_Project/manuscript_moisture_mlops/artifacts/mlflow.db",
+    "experiment_name": "manuscript-moisture-risk",
+    "run_id": "e1258b6cc4d8493c8a0f36212ae4a7e8",
+    "registered_model_name": "ManuscriptMoistureRiskModel"
+  },
+  "trained_at_utc": "2026-11-18T09:43:47.148555+00:00"
+}

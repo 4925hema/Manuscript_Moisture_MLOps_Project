@@ -1,0 +1,13 @@
+Execution evidence status (18 November 2026)
+
+LOCAL VERIFIED
+- Synthetic Version 1 and Version 2 CSVs generated (300 rows each).
+- SQLite feature store materialized (600 records).
+- Decision Tree and Random Forest training completed.
+- Local FastAPI /health and /predict endpoints returned HTTP 200.
+- 9 pytest tests passed.
+- API screenshot generated from actual local HTTP responses.
+
+NOT VERIFIED IN THIS BUILD ENVIRONMENT
+- MLflow package installation was blocked because this runtime has no package-index network access. The source contains MLflow tracking and registered-model code; install requirements.txt and rerun src.train to execute it.
+- GitHub-hosted Actions cannot run until the project is pushed to a GitHub repository. The workflow is included at .github/workflows/ci.yml. The first run's URL/screenshot must be added by the student after pushing.

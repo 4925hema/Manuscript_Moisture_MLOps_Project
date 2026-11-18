@@ -1,0 +1,20 @@
+{
+  "created_at_utc": "2026-11-18T09:44:31.644233+00:00",
+  "random_seed": 42,
+  "versions": {
+    "Version 1 - Baseline": {
+      "file": "data\\raw\\manuscript_rooms_v1.csv",
+      "rows": 300,
+      "risk_rate": 0.1333,
+      "mean_relative_humidity_pct": 63.79,
+      "mean_ventilation_min_per_hour": 33.18
+    },
+    "Version 2 - Monsoon": {
+      "file": "data\\raw\\manuscript_rooms_v2_monsoon.csv",
+      "rows": 300,
+      "risk_rate": 0.6967,
+      "mean_relative_humidity_pct": 75.87,
+      "mean_ventilation_min_per_hour": 20.13
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "health": {
+    "status": "healthy",
+    "model_loaded": true,
+    "model_name": "ManuscriptMoistureRiskModel",
+    "model_version": "1",
+    "detail": null
+  },
+  "requests": {
+    "high-risk": {
+      "relative_humidity_pct": 91,
+      "room_temperature_c": 18,
+      "wall_surface_temperature_c": 14,
+      "door_openings_per_hour": 10,
+      "ventilation_duration_min_per_hour": 8,
+      "dehumidifier_operating_hours_per_day": 2,
+      "room_occupancy": 4
+    },
+    "acceptable": {
+      "relative_humidity_pct": 50,
+      "room_temperature_c": 23,
+      "wall_surface_temperature_c": 21,
+      "door_openings_per_hour": 1,
+      "ventilation_duration_min_per_hour": 45,
+      "dehumidifier_operating_hours_per_day": 12,
+      "room_occupancy": 1
+    }
+  },
+  "responses": {
+    "high-risk": {
+      "prediction": "Moisture Risk",
+      "moisture_risk_probability": 0.9637,
+      "decision_threshold": 0.35,
+      "forecast_horizon": "Next 48 hours",
+      "engineered_features": {
+        "condensation_risk_index": 0.9426,
+        "ventilation_effectiveness_ratio": 0.0678,
+        "dew_point_c": 16.508
+      }
+    },
+    "acceptable": {
+      "prediction": "Storage Conditions Acceptable",
+      "moisture_risk_probability": 0.0,
+      "decision_threshold": 0.35,
+      "forecast_horizon": "Next 48 hours",
+      "engineered_features": {
+        "condensation_risk_index": 0.0,
+        "ventilation_effectiveness_ratio": 0.6716,
+        "dew_point_c": 12.02
+      }
+    }
+  }
+}

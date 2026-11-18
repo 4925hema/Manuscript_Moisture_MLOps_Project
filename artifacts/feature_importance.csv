@@ -1,0 +1,12 @@
+feature,importance
+dew_point_margin_c,0.3618996240653291
+condensation_risk_index,0.3469421498199514
+relative_humidity_pct,0.15937773732932276
+dew_point_c,0.05465593146653461
+wall_surface_temperature_c,0.03843034360779585
+room_temperature_c,0.011898332757837773
+ventilation_effectiveness_ratio,0.008088914565632346
+ventilation_duration_min_per_hour,0.007778728947929624
+dehumidifier_operating_hours_per_day,0.005935196814957023
+door_openings_per_hour,0.003538419638394699
+room_occupancy,0.0014546209863147575
